@@ -1,0 +1,24 @@
+Old files/
+theme_old/
+m1cfg/
+bridge.ini
+romstatus.ini
+bm1/
+__history/
+__recovery/
+.agents
+m1_roms/
+develop/*
+!develop/screenshot.png
+
+# Delphi build and local IDE artifacts
+*.dcu
+*.ddp
+*.dproj.local
+*.dsk
+*.dsk.bak
+*.dsm
+*.identcache
+*.otares
+*.exe
+*.dll

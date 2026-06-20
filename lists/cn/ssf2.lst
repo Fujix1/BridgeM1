@@ -1,0 +1,356 @@
+﻿$name=ssf2
+$default=061
+$main
+
+#061 QSound Logo
+//Main QSound
+#051 片头 <0:25>
+#052 人物选择 <0:45.2>
+#063 锦标赛 <0:04>
+#053 队战 <0:05>
+#001 Ken 场景 I <2:09>
+#017 Ken 场景 II <0:48.9>
+#034 Ken 结尾 I <0:52>
+#033 Ken 结尾 II <1:24>
+// Original Piece : Wedding March (Mendelssohn)
+#002 Ryu 场景 I <1:40.7>
+#018 Ryu 场景 II <0:32.2>
+#035 Ryu 结尾 <1:03>
+#004 Chun-Li 场景 I <1:47.3>
+#020 Chun-Li 场景 II <0:32.3>
+#037 Chun-Li 结尾 I <0:53.7>
+#038 Chun-Li 结尾 II <0:39.4>
+#062 Chun-Li 结尾 III <0:41.1>
+#059 Bonus 场景 <0:48.2>
+#016 Dee Jay 场景 I <1:19.9>
+#032 Dee Jay 场景 II <0:39.4>
+#050 Dee Jay 结尾 <0:59.7>
+#015 T. Hawk 场景 I <1:16>
+#031 T. Hawk 场景 II <0:35.7>
+#049 T. Hawk 结尾 <1:15>
+#013 Fei Long 场景 I <1:15.2>
+#029 Fei Long 场景 II <0:36.1>
+#047 Fei Long 结尾 <0:55.4>
+#014 Cammy 场景 I <2:04.6>
+#030 Cammy 场景 II <0:32.3>
+#048 Cammy 结尾 <1:36>
+#003 E. Honda 场景 I <2:09.2>
+#019 E. Honda 场景 II <0:34.8>
+#036 E. Honda 结尾 <0:51.4>
+#007 Guile 场景 I <2:15.2>
+#023 Guile 场景 II <0:57.8>
+#041 Guile 结尾 <0:50.4>
+#008 Dhalsim 场景 I <1:46.8>
+#024 Dhalsim 场景 II <0:59>
+#042 Dhalsim 结尾 <0:36>
+#005 Blanka 场景 I <1:53.5>
+#021 Blanka 场景 II <0:29.6>
+#039 Blanka 结尾 <0:38.2>
+#006 Zangief 场景 I <1:51.8>
+#022 Zangief 场景 II <0:33.5>
+#040 Zangief 结尾 <0:45.3>
+#054 战斗结束 <0:05.8>
+#055 继续? <0:38.7>
+#056 新的挑战者! <0:04>
+#009 Balrog 场景 I <1:47.4>
+#025 Balrog 场景 II <0:31>
+#043 Balrog 结尾 <0:54>
+#010 Vega 场景 I <1:55.7>
+#026 Vega 场景 II <0:56.7>
+#044 Vega 结尾 <0:54.3>
+#011 Sagat 场景 I <1:57.8>
+#027 Sagat 场景 II <0:26.7>
+#045 Sagat 结尾 <0:41.1>
+#012 M. Bison 场景 I <2:09.5>
+#028 M. Bison 场景 II <0:57.7>
+#046 M. Bison 结尾 <0:32>
+#193 祝贺! <1:11.8>
+#060 职员表 <2:49.9>
+#057 游戏场景 <0:04>
+#058 排名 <0:04>
+
+#209 QSound Logo 2
+//Sub-QSound
+
+
+----------------------------------------------------------------------------
+ 语音
+
+#171 [语音] Round
+#172 [语音] Fight
+#173 [语音] Final
+#174 [语音] You
+#175 [语音] Win
+#176 [语音] Lose
+#484 [语音] Wins
+#485 [语音] Loses
+#483 [语音] Versus
+#177 [语音] Perfect
+#454 [语音] 0
+#455 [语音] 1
+#456 [语音] 2
+#457 [语音] 3
+#458 [语音] 4
+#459 [语音] 5
+#460 [语音] 6
+#461 [语音] 7
+#462 [语音] 8
+#463 [语音] 9
+#464 [语音] Ryu
+#465 [语音] Ken
+#466 [语音] Chun-Li
+#467 [语音] Guile
+#468 [语音] E. Honda
+#469 [语音] Honda
+#470 [语音] Blanka
+#471 [语音] Dhalsim
+#472 [语音] Zangief
+#473 [语音] Bison
+#474 [语音] Balrog
+#475 [语音] Sagat
+#476 [语音] Vega
+#477 [语音] T. Hawk
+#478 [语音] Hawk
+#479 [语音] Fei Long
+#480 [语音] Cammy
+#481 [语音] Dee Jay
+#178 [语音] Japan
+#179 [语音] U.S.A.
+#180 [语音] China
+#181 [语音] Brazil
+#182 [语音] India
+#183 [语音] U.S.S.R.
+#184 [语音] Spain
+#185 [语音] Thailand
+#186 [语音] Mexico
+#187 [语音] Hong Kong
+#188 [语音] England
+#189 [语音] Jamaica
+#482 [语音] You are the champion!
+
+  Ken
+#101 [语音] Shouryuuken
+#102 [语音] Hadouken
+#103 [语音] Tatsumaki Senpuukyaku
+#104 [语音] Ya! (Seoinage, Jigoku-Guruma)
+#105 [语音] Urk..
+
+  Ryu
+#096 [语音] Shouryuuken
+#097 [语音] Hadouken
+#098 [语音] Tatsumaki Senpuukyaku
+#099 [语音] Ha! (Seoinage, Tomoenage)
+#100 [语音] Uurk..
+
+  Chun-Li
+#106 [语音] Spinning Bird Kick
+#107 [语音] Ya! (Hyakuretsu Kyaku)
+#108 [语音] Ei! (Koshuutou)
+#109 [语音] Kikouken
+#110 [语音] Hahahaha.. (Win 1)
+#111 [语音] Yatta! (Win 2)
+#112 [语音] Aaah..
+
+  Dee Jay
+#434 [语音] Dei! (Funky Shout Throw, Monkey Flip)
+#436 [语音] Kick it! (Win 1)
+#438 [语音] All right! (Win 2)
+#440 [语音] Dada.. (Macine Gun Upper 1)
+#442 [语音] Daah! (Macine Gun Upper 2)
+#444 [语音] Uurgh.. (Double Rolling Sobat 1)
+#446 [语音] Hah! (Double Rolling Sobat 2)
+#448 [语音] Slash! (Air Slasher in JP ver.)
+#450 [语音] Max out! (Air Slasher)
+#452 [语音] Nooo..
+
+  T. Hawk
+#154 [语音] Oogh! (Tomahawk Buster, Condor Dive)
+#155 [语音] Mmmmmg! (Mexican Typhoon)
+#156 [语音] Huu! (Mexican Throw, Neck-Hanging Tree)
+#157 [语音] Uaarghh..
+
+  Fei Long
+#158 [语音] Hai! (Rekkaken 1, 2)
+#159 [语音] Howaaai! (Rekkaken 3)
+#160 [语音] Howachoou! (Shienkyaku)
+#161 [语音] Ha! (Gankaihou, Shuushugai)
+#162 [语音] Hooooo (Win)
+#163 [语音] Hoaaarr..
+
+  Cammy
+#164 [语音] Cannon Drill
+#165 [语音] Spiral Arrow (Cannon Drill in JP ver.)
+#166 [语音] Thrust Kick
+#167 [语音] Cannon Spike (Thrust Kick in JP ver.)
+#168 [语音] Ha! (Hooligan Suplex)
+#169 [语音] Ya! (Frankensteiner)
+#170 [语音] Aaah..
+
+  E. Honda
+#117 [语音] Huag! (Hyakuretsu Harite)
+#118 [语音] Eiya! (Super Hyakkan Otoshi, Tawaranage)
+#119 [语音] Humn! (Sabaori)
+#120 [语音] Dosukoi! (Super Head Butt)
+#121 [语音] Gahhahhahaha! (Win)
+#122 [语音] Wooughh..
+
+  Guile
+#113 [语音] Sonic Boom
+#114 [语音] Ha! (Judo Throw)
+#115 [语音] Humn! (Dragon Suplex)
+#116 [语音] Ugh oooh..
+
+  Dhalsim
+#126 [语音] Fire
+#127 [语音] Flame
+#128 [语音] Yoga
+#100 [语音] Uurk..
+
+  Blanka
+#123 [语音] Uuaarrk! (Rolling Attack)
+#124 [语音] Yawp, yaawp (Win)
+#486 [语音] Argh!
+#125 [语音] %#&?@..
+
+  Zangief
+#129 [语音] Ugrya (Double Lariat, Flying Power Bomb, Stomach Claw)
+#130 [语音] Hu! (Screw Pile Driver, Brain Buster)
+#131 [语音] Ooorya! (Atomic Suplex)
+#132 [语音] Ha! (Pile Driver, Iron Claw)
+#133 [语音] Hahahaha (Win)
+#134 [语音] Geeeh..
+
+  Balrog
+#137 [语音] Huh! (Head Bomber)
+#138 [语音] Oooaaarrrg! (Dash Strait, Dash Upper)
+#136 [语音] Uugh..
+
+  Vega
+#139 [语音] Hyooow! (Flying Barcelona Attack)
+#140 [语音] Hyoow! (Izuna Drop, Rainbow Suplex, Back Slash)
+#141 [语音] Yoolaiyoleihee (Win 1)
+#142 [语音] Hehehehe (Win 2)
+#143 [语音] Aaah..
+
+  Sagat
+#144 [语音] Tiger (Tiger Shot, Ground Tiger Shot)
+#145 [语音] Tiger Uppercut
+#146 [语音] Tiger Knee (Tiger Knee Crush)
+#147 [语音] Huh! (Tiger Carry)
+#148 [语音] Huhuhu.. (Win 1)
+#149 [语音] Ahahaha (Win 2)
+#150 [语音] Ooooh..
+
+  M. Bison
+#151 [语音] Humn! (Deadly Throw)
+#152 [语音] Huhuhu.. (Win)
+#153 [语音] Aaarrgh..
+
+
+----------------------------------------------------------------------------
+ 音效
+
+#065 [音效] 蓄币
+#066 [音效]
+#067 [音效]
+#068 [音效]
+#069 [音效]
+#070 [音效]
+#071 [音效]
+#072 [音效]
+#073 [音效]
+#074 [音效]
+#075 [音效]
+#076 [音效]
+#077 [音效]
+#078 [音效]
+#079 [音效]
+#080 [音效]
+#081 [音效]
+#082 [音效]
+#083 [音效]
+#084 [音效]
+#085 [音效]
+#086 [音效]
+#088 [音效]
+#089 [音效]
+#090 [音效]
+#091 [音效]
+#092 [音效]
+#093 [音效]
+#094 [音效]
+#095 [音效]
+#192 [音效] <0:07>
+#194 [音效]
+#195 [音效]
+#196 [音效]
+#256 [音效]
+#257 [音效]
+#258 [音效]
+#259 [音效]
+#260 [音效]
+#261 [音效]
+#264 [音效]
+#267 [音效]
+#270 [音效]
+#273 [音效]
+#276 [音效]
+#279 [音效]
+#280 [音效]
+#281 [音效]
+#282 [音效]
+#283 [音效]
+#284 [音效]
+#285 [音效]
+#288 [音效]
+#292 [音效]
+#295 [音效]
+#298 [音效]
+#299 [音效]
+#302 [音效]
+#305 [音效]
+#308 [音效]
+#309 [音效]
+#385 [音效]
+#387 [音效]
+#389 [音效]
+#391 [音效]
+#393 [音效]
+#395 [音效]
+#397 [音效]
+#399 [音效]
+#401 [音效]
+#403 [音效]
+#405 [音效]
+#406 [音效]
+#407 [音效]
+#408 [音效] <0:07>
+#410 [音效]
+#411 [音效]
+#412 [音效]
+#413 [音效]
+#415 [音效]
+#417 [音效] Cheer 1
+#418 [音效] Cheer 2
+#419 [音效]
+#422 [音效]
+#423 [音效] <0:07>
+#424 [音效]
+#426 [音效] <0:07>
+#428 [音效] <0:07>
+#430 [音效] <0:07>
+#509 [音效]
+
+  ■出品
+  超级街头霸王 Ⅱ
+  Sony Records  SRCL-2822  1994-1-21
+
+  ■列表编辑
+  MAME E2J
+  NK
+  Diablo_Hu
+  http://www.e2j.net
+  http://www.emucn.net
+  http://loseemu.126.com
+
+$end

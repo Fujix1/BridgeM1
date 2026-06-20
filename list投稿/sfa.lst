@@ -1,0 +1,311 @@
+$name=sfa
+$default=034
+$main
+
+#034 QSound Logo
+//Main QSound
+#013 Opening Demo <0:24.5>
+#243 [voice] Street Fighter Zero <0:04>
+#014 Player Select <0:54>
+#015 VS.
+#001 RYU Stage <1:53>
+#021 RYU Ending <1:05>
+#009 NASH Stage <1:57>
+#029 NASH Ending <1:12>
+#003 CHUN-LI Stage <1:54>
+#023 CHUN-LI Ending
+#006 ADON Stage <2:10>
+#026 ADON Ending <1:00>
+#008 GUY Stage <2:45>
+// "Final Fight"(Round 1-1) のアレンジ曲
+#028 GUY Ending <1:01>
+#011 GOUKI Stage <1:54>
+#031 GOUKI Ending <1:24>
+#016 Stage-End
+#017 Continue <0:37>
+#018 Here Comes The New Challenger
+#002 KEN Stage <2:07>
+#022 KEN Ending <1:31>
+#005 SODOM Stage <2:30>
+// "Final Fight"(Round 1-2 & 2-1) のアレンジ曲
+#025 SODOM Ending <1:38>
+// "Final Fight"(Continue) のアレンジ曲
+#010 ROSE Stage <1:36>
+#030 ROSE Ending <1:01>
+#007 BIRDIE Stage <1:44>
+#027 BIRDIE Ending <1:05>
+#004 SAGAT Stage <2:59>
+#024 SAGAT Ending <1:14>
+#012 VEGA Stage <2:11>
+#032 VEGA Ending <1:05>
+#050 DAN Stage <3:00>
+#051 DAN Ending <0:44>
+#033 Staff Roll 1 <2:52>
+#049 Staff Roll 2 <2:00>
+#019 Game Over
+#020 Ranking Display 1
+#036 Ranking Display 2
+#052 Dramatic Battle BGM  (恋しさとせつなさと心強さと / 篠原涼子 with t.komuro)
+// (Epic/Sony Records  ESDB-3495  1994.07.21)
+
+#035 QSound Logo 2
+//Sub-QSound
+
+----------------------------------------------------------
+ [VOICE]
+
+#224 [voice] Round
+#225 [voice] 1
+#226 [voice] 2
+#227 [voice] 3
+#228 [voice] 4
+#229 [voice] 5
+#230 [voice] 6
+#231 [voice] 7
+#232 [voice] 8
+#233 [voice] 9
+#234 [voice] Final
+#235 [voice] Fight
+#236 [voice] K.O.
+#237 [voice] You
+#238 [voice] Win
+#239 [voice] Lose
+#240 [voice] Perfect
+#241 [voice] Draw
+#242 [voice] Time Over
+#243 [voice] Street Fighter Zero
+#244 [voice] Street Fighter Alpha
+#245 [voice] Zero
+#246 [voice] Alpha
+
+  RYU
+#608 [voice] 波動拳
+#609 [voice] 昇龍拳
+#610 [voice] 竜巻旋風脚
+#611 [voice] 真空
+#612 [voice] フッ！
+#613 [voice] ハッ！
+#614 [voice] ィヤッ！
+#615 [voice] ウッ‥
+#616 [voice] ウワァァ…
+
+  KEN
+#617 [voice] 波動拳
+#618 [voice] 昇龍拳
+#619 [voice] 竜巻旋風脚
+#620 [voice] いくぜ！
+#621 [voice] 神龍拳
+#622 [voice] 昇龍裂破
+#623 [voice] やったぜ！
+#624 [voice] ハッ！
+#625 [voice] フッ！
+#626 [voice] ウッ‥
+#627 [voice] ゥワアァァ…
+
+  GUY
+#628 [voice] デヤッ！
+#629 [voice] エイヤァ！
+#630 [voice] いざ！
+#631 [voice] ァアアッ！
+#632 [voice] ハッ！
+#633 [voice] フッ！
+#634 [voice] 必殺！
+#635 [voice] 悪く思うな‥
+#636 [voice] これぞ武神流！
+#638 [voice] ヌァッ‥
+#639 [voice] ヌアァァ…
+
+  NASH
+#640 [voice] ソニックブレイク
+#641 [voice] ソニックブーム
+#642 [voice] サマーソルト
+#643 [voice] フッ！
+#644 [voice] ィイヤッ！
+#645 [voice] フン！
+#646 [voice] Too easy!
+#647 [voice] ウッ‥
+#648 [voice] ノオォォ…
+
+  SAGAT
+#649 [voice] タイガー
+#650 [voice] タイガー‥
+#651 [voice] タイガークラッシュ
+#652 [voice] タイガーブロウ
+#653 [voice] ジェノサイド
+#654 [voice] レイド
+#655 [voice] ウッ！
+#656 [voice] フンッ！
+#657 [voice] ハッハッハッハ…
+#658 [voice] ウッ‥
+#659 [voice] ウオォァ…
+
+  CHUN-LI
+#660 [voice] 千裂脚
+#661 [voice] 気功掌
+#662 [voice] 気功拳
+#663 [voice] 天昇脚
+#664 [voice] 覇山
+#665 [voice] ヤッ！
+#666 [voice] イヤッ！
+#667 [voice] エイッ！
+#668 [voice] ハァァ‥
+#669 [voice] アッ‥
+#670 [voice] ごめんね！
+#671 [voice] アハハハハハ‥
+#672 [voice] やったァ！
+#673 [voice] キャーーーァ…
+
+  ROSE
+#674 [voice] ソウルスパーク
+#675 [voice] ソウルスルー
+#676 [voice] リフレクト
+#677 [voice] ハァッ！
+#678 [voice] ハッ！
+#679 [voice] ヤアッ！
+#680 [voice] アァッ‥
+#681 [voice] それじゃダメ！
+#682 [voice] まだまだね‥
+#683 [voice] やるじゃない？
+#684 [voice] アアァァ…
+
+  ADON
+#685 [voice] ジャガー
+#686 [voice] ジャガーキック
+#687 [voice] ジャガートゥース
+#688 [voice] ハァッ！
+#689 [voice] テアァ！
+#690 [voice] アチョーッ！
+#691 [voice] ハァァアッ！
+#692 [voice] ルルルルルルァッ！
+#693 [voice] Yes!
+#694 [voice] ゥオッ‥
+#695 [voice] ゥオォァァ…
+
+  SODOM
+#696 [voice] ブツメツ
+#697 [voice] テンチュウサツ
+#698 [voice] ハッ！
+#699 [voice] セイヤァッ！
+#700 [voice] ウリャァッ！
+#701 [voice] ヌウウゥッ！
+#702 [voice] アッパレィ！
+#703 [voice] ヌゥォッ‥
+#704 [voice] ヌカッタァァ…
+
+  VEGA
+#707 [voice] サイコクラッシャー
+#708 [voice] フゥッ！
+#709 [voice] フゥリャァッ！
+#710 [voice] ムゥッ！
+#711 [voice] ッハッハッハ‥
+#712 [voice] ハッ‥ぬるいわ！
+#714 [voice] グワッ‥
+#715 [voice] グワァァ…
+
+  GOUKI
+#716 [voice] フッ！
+#717 [voice] ヌン！
+#718 [voice] デヤッ！
+#719 [voice] ウリャァッ！
+#720 [voice] 滅殺！
+#721 [voice] ウァッ‥
+#722 [voice] ヌアアァァ…
+
+  BIRDIE
+#723 [voice] ブルヘッド
+#724 [voice] ブルホーン
+#725 [voice] フンッ！
+#726 [voice] ヌウゥァッ！
+#727 [voice] Go !
+#728 [voice] To heaven!
+#729 [voice] I'm No.1!
+#731 [voice] ウォッ‥
+#732 [voice] You!
+#733 [voice] Hey!
+#734 [voice] ウオォォ…
+
+----------------------------------------------------------
+ [SE]
+
+#247 [SE] Credit
+#248 [SE]
+#249 [SE]
+#250 [SE]
+#251 [SE]
+#253 [SE]
+#254 [SE]
+#256 [SE]
+#257 [SE]
+#258 [SE]
+#259 [SE]
+#260 [SE]
+#261 [SE]
+#262 [SE]
+#263 [SE]
+#264 [SE]
+#265 [SE]
+#266 [SE]
+#267 [SE]
+#268 [SE]
+#269 [SE]
+#270 [SE]
+#271 [SE]
+#272 [SE]
+#273 [SE]
+#274 [SE]
+#275 [SE]
+#276 [SE]
+#277 [SE]
+#278 [SE]
+#279 [SE]
+#280 [SE]
+#281 [SE]
+#284 [SE]
+#285 [SE]
+#286 [SE]
+#287 [SE]
+#288 [SE]
+#289 [SE]
+#290 [SE]
+#291 [SE]
+#292 [SE]
+#293 [SE]
+#294 [SE]
+#295 [SE]
+#296 [SE]
+#297 [SE]
+#298 [SE]
+#299 [SE]
+#300 [SE]
+#301 [SE]
+#302 [SE]
+#303 [SE]
+#304 [SE]
+#305 [SE]
+#306 [SE]
+#307 [SE]
+#312 [SE]
+#313 [SE]
+#318 [SE]
+#319 [SE]
+#320 [SE]
+#321 [SE]
+#506 [SE]
+#515 [SE]
+#520 [SE]
+#529 [SE]
+#538 [SE]
+#539 [SE]
+#556 [SE]
+#562 [SE]
+#564 [SE]
+#565 [SE]
+#568 [SE]
+#569 [SE]
+
+  ■出典
+  ストリートファイターZERO  アーケード ゲームトラック
+  Sony Records  SRCL-3297  1995.08.21
+
+// List Contribution by NK
+$end

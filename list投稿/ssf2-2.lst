@@ -1,0 +1,399 @@
+$name= ssf2
+$default= 061
+$songmax= 485
+
+$main
+
+
+■■■■■■■■■■■■■■■■
+■□- 再生時間指定なし再生 -□■
+■□-      ボイス無し      -□■
+■■■■■■■■■■■■■■■■
+
+
+#061 Q Sound Theme
+
+#051 Opening Demo
+#052 Player Select
+#063 Tournament
+#053 VS.
+
+
+-- ケン --
+#001 Ken Stage
+#017 Ken Stage ピンチ
+#033 Ken Ending
+#034 Ken Ending2
+
+-- リュウ --
+#002 Ryu Stage
+#018 Ryu Stage ピンチ
+#035 Ryu Ending
+
+-- 春麗 --
+#004 Chun-Li Stage
+#020 Chun-Li Stage ピンチ
+#037 Chun-Li Ending
+#038 Chun-Li Ending2
+#062 Chun-Li Ending3
+
+#059 Bonus Stage
+
+-- ディージェイ --
+#016 Dee Jay Stage
+#032 Dee Jay Stage ピンチ
+#050 Dee Jay Ending
+
+-- サンダーホーク --
+#015 T.Hawk Stage
+#031 T.Hawk Stage ピンチ
+#049 T.Hawk Ending
+
+-- 飛龍 --
+#013 Fei Long Stage
+#029 Fei Long Stage ピンチ
+#047 Fei Long Ending
+
+-- キャミィ --
+#014 Cammy Stage
+#030 Cammy Stage ピンチ
+#048 Cammy Ending
+
+-- エドモンド本田 --
+#003 E.Honda Stage
+#019 E.Honda Stage ピンチ
+#036 E.Honda Ending
+
+-- ガイル --
+#007 Guile Stage
+#023 Guile Stage ピンチ
+#041 Guile Ending
+
+-- ダルシム --
+#008 Dhalsim Stage
+#024 Dhalsim Stage ピンチ
+#042 Dhalsim Ending
+
+-- ブランカ --
+#005 Blanka Stage
+#021 Blanka Stage ピンチ
+#039 Blanka Ending
+
+-- ザンギエフ --
+#006 Zangief Stage
+#022 Zangief Stage ピンチ
+#040 Zangief Ending
+
+
+#054 Stage-End
+#055 Continue
+#056 Here Comes The New Challenger
+
+
+-- マイク バイソン --
+#009 M.Bison Stage
+#025 M.Bison Stage ピンチ
+#043 M.Bison Ending
+
+-- バルログ --
+#010 Balrog Stage
+#026 Balrog Stage ピンチ
+#044 Balrog Ending
+
+-- サガット --
+#011 Sagat Stage
+#027 Sagat Stage ピンチ
+#045 Sagat Ending
+
+-- ベガ --
+#012 Vega Stage
+#028 Vega Stage ピンチ
+#046 Vega Ending
+
+#193 Congratulations!
+#060 Staff Roll
+#057 Game Over
+#058 Ranking Display
+
+
+
+■■■■■■■■■■■■■■■■
+■□- 再生時間指定あり再生 -□■
+■□-　 　 ボイスあり　　  -□■
+■■■■■■■■■■■■■■■■
+
+
+#051 Opening Demo
+#052 Player Select <0:48>
+#063 Tournament
+#053 VS.
+
+-- ケン --
+#001 Ken Stage <1:32>
+#017 Ken Stage ピンチ <0:31>
+#033 Ken Ending
+#034 Ken Ending2 <0:55>
+-- Ken Voice --
+#102 波動拳
+#101 昇竜拳
+#103 竜巻旋風脚
+#104 背負い投げ
+#105 やられ
+
+-- リュウ --
+#002 Ryu Stage <1:42>
+#018 Ryu Stage ピンチ <0:27>
+#035 Ryu Ending
+-- Ryu Voice --
+#097 波動拳
+#096 昇竜拳
+#098 竜巻旋風脚
+#099 背負い投げ
+#100 やられ
+
+-- 春麗 --
+#004 Chun-Li Stage <1:36>
+#020 Chun-Li Stage ピンチ <0:27>
+#037 Chun-Li Ending <0:57>
+#038 Chun-Li Ending2 <0:56>
+#062 Chun-Li Ending3 <0:53>
+-- Chun-Li Voice --
+#109 気功拳
+#106 スピニングバードキック
+#107 百裂脚
+#108 虎襲倒
+#112 やられ
+#110 勝利
+#111 勝利
+
+#059 Bonus Stage <0:38>
+
+-- ディージェイ --
+#016 Dee Jay Stage <1:21>
+#032 Dee Jay Stage ピンチ <0:28>
+#050 Dee Jay Ending <0:52>
+-- Dee Jay Voice --
+#448 エアスラッシャー
+#440 マシンガンアッパー
+#442 マシンガンアッパー
+#445 ダブルローリングソバット
+#447 ダブルローリングソバット
+#435 ファンキーシャウトスルー
+#452 やられ
+#436 勝利1
+#438 勝利2
+
+-- サンダーホーク --
+#015 T.Hawk Stage <1:15>
+#031 T.Hawk Stage ピンチ <0:36>
+#049 T.Hawk Ending
+-- T.Hawk Voice --
+#154 コンドルダイブ
+#155 メキシカンタイフーン
+#156 メキシカンスルー
+#157 やられ
+
+-- 飛龍 --
+#013 Fei Long Stage <1:20>
+#029 Fei Long Stage ピンチ <0:29>
+#047 Fei Long Ending <1:01>
+-- Fei long Voive --
+#158 烈火拳1
+#158 烈火拳2
+#159 烈火拳3
+#160 熾炎脚
+#161 岩塊抱
+#163 やられ
+#162 勝利
+
+-- キャミィ --
+#014 Cammy Stage <1:36>
+#030 Cammy Stage ピンチ <0:26>
+#048 Cammy Ending <1:37>
+-- Cammy Voice --
+#167 キャノンスパイク
+#165 スパイラルアロー
+#168 フーリガンスープレックス
+#169 フランケンシュタイナー
+#170 やられ
+
+-- エドモンド本田 --
+#003 E.Honda Stage <1:43>
+#019 E.Honda Stage ピンチ <0:28>
+#036 E.Honda Ending <0:53>
+-- E.Honda Voice --
+#120 スーパー頭突き
+#117 百裂張り手
+#119 さば折り
+#118 スーパー百貫落とし
+#122 やられ
+#121 勝利
+
+-- ガイル --
+#007 Guile Stage <2:04>
+#023 Guile Stage ピンチ <0:26>
+#041 Guile Ending <0:58>
+-- Guile Voice --
+#113 ソニックブーム
+#114 ジュードースルー
+#115 ドラゴンスープレックス
+#116 やられ
+
+-- ダルシム --
+#008 Dhalsim Stage <1:26>
+#024 Dhalsim Stage ピンチ <0:36>
+#042 Dhalsim Ending
+-- Dhalsim Voice --
+#128 ヨガ
+#126 ファイアー
+#128 ヨガ
+#127 フレイム
+#128 ヨガ
+#402 テレポート
+
+-- ブランカ --
+#005 Blanka Stage <1:30>
+#021 Blanka Stage ピンチ <0:30>
+#039 Blanka Ending <0:39>
+-- Blanka Voice --
+#123 ローリングアタック
+#125 やられ
+#124 勝利
+
+-- ザンギエフ --
+#006 Zangief Stage <1:32>
+#022 Zangief Stage ピンチ <0:27>
+#040 Zangief Ending <0:33>
+-- Zangief Voice --
+#129 フライングパワーボム
+#130 スクリューパイルドライバー
+#131 アトミックスープレックス
+#132 パイルドライバー
+#135 ？
+#134 やられ
+#133 勝利
+
+#054 Stage-End
+#055 Continue <0:28>
+#056 Here Comes The New Challenger
+
+-- マイク バイソン --
+#009 M.Bison Stage <1:41>
+#025 M.Bison Stage ピンチ <0:25>
+#043 M.Bison Ending <0:53>
+-- M.Bison --
+#138 ダッシュストレート&アッパー
+#137 ヘッドバット
+#136 やられ
+
+-- バルログ --
+#010 Balrog Stage <1:29>
+#026 Balrog Stage ピンチ <0:23>
+#044 Balrog Ending <0:54>
+-- Balrog Voice --
+#139 フライングバルセロナアタック
+#140 イズナドロップ
+#143 やられ
+#142 勝利1
+#141 勝利2
+
+-- サガット --
+#011 Sagat Stage <1:20>
+#027 Sagat Stage ピンチ <0:32>
+#045 Sagat Ending <0:45>
+-- Sagat Voice --
+#144 タイガーショット
+#145 タイガーアッパーカット
+#146 タイガーニークラッシュ
+#147 タイガーキャリー
+#150 やられ 
+#148 勝利1
+#149 勝利2
+
+-- ベガ --
+#012 Vega Stage <1:26>
+#028 Vega Stage ピンチ <0:39>
+#046 Vega Ending <0:42>
+-- Vega Voice --
+#151 デッドリースルー
+#150 やられ
+#152 勝利
+
+#193 Congratulations! <0:49>
+#060 Staff Roll <2:02>
+#057 Game Over
+#058 Ranking Display
+
+-- Announce Collection --
+#171 Round
+#172 Fight!
+#173 Final
+#174 You
+#175 Win
+#176 Lose
+#484 Wins
+#485 Loses
+#483 VS.
+#177 Perfect
+#454 0
+#455 1
+#456 2
+#457 3
+#458 4
+#459 5
+#460 6
+#461 7
+#462 8
+#463 9
+#464 Ryu
+#465 Ken
+#466 Chun-Li
+#467 Guile
+#468 E.Honda
+#469 Honda
+#470 Blanka
+#471 Dhalsim
+#472 Zangief
+#473 Bison
+#474 Balrog
+#475 Sagat
+#476 Vega
+#477 T.Hawk
+#478 Hawk
+#479 Fei Long
+#480 Cammy
+#481 Dee Jay
+#178 Japan
+#179 U.S.A.
+#180 China
+#181 Brazil
+#182 India
+#183 U.S.S.R.
+#184 Spain
+#185 Thailand
+#186 Mexico
+#187 Hong Kong
+#188 England
+#189 Jamaica
+#482 You are The Champion
+
+
+
+[出典]
+
+  Sony Music Entertainment(Japan)inc
+  SRCL 2822
+  1994/01/21
+
+  SUPER STREET FIGHTER II
+   Music Composed by
+           CAPCOM SOUND TEAM  Alph Lyla
+
+  ※演奏時間指定ありは、ボイス含めCD収録順そのまま。
+　　ピンチ曲のみ、CD未収録のため時間は独断。
+　　ボイスはCD収録物のみ。
+　　また、CD Track64. SE Collection は、あまりに幅が広いので
+　　省きました。
+
+// リスト作成：BLADEさん
+$end

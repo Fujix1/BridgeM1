@@ -1,0 +1,54 @@
+﻿$name=alcon
+$version=2
+$default=031
+$main
+
+#031 [SE] Credit
+#025 Prologue of Battle (Opening Theme) + Expect Success (First Area) エリア 01～10
+#021 Expect Success (First Area) エリア 01～10 / エリア 51～60
+#023 Gain a Victory (Second Area) エリア 11～20 / エリア 72～80
+#020 Lost Everything as (Third Area) エリア 21～30 / エリア 71
+#024 Reaching a Dream (Fourth Area) エリア 31～40 / エリア 81
+#022 Feel Brand New (Fifth Area) エリア 41～50 / エリア 61～70 / 最終ボス
+#026 Well done (Game Over)
+#028 Reach the desire. Going Further (Name Storage 1)
+#027 Reach the desire (Name Storage 2)
+
+-----------------------------------------------------------
+ [SE]
+
+#001 [SE] エクステンド
+#002 [SE] 
+#003 [SE] 
+#004 [SE] ウィング
+#005 [SE] 
+#006 [SE] 
+#007 [SE] ショット
+#008 [SE] 
+#009 [SE] ☆
+#010 [SE] パワーアップ
+#011 [SE] サイドショット
+#012 [SE] 
+#013 [SE] 隠しパネル
+#014 [SE] プレイヤー ミス
+#016 [SE] 
+#017 [SE] レーザー
+#019 [SE] 
+#029 [SE] シールド
+#030 [SE] 
+#031 [SE] クレジット投入
+#032 [SE] 
+#033 [SE] 
+#034 [SE] 
+
+  ■作曲
+  弓削 雅稔
+  
+  ■出典
+  東亜プラン シューティングクロニクル
+  2011/11/14 SRIN-1100
+
+// List contributed by ひろし
+// #027 info by BATTEN
+// Updated by Fujix.
+$end

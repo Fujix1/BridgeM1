@@ -1,0 +1,99 @@
+﻿$name=mslugx
+$version=2
+$default=046
+$songmax=255
+$main
+
+#002 Neo Geo Logo
+//#030 [指令] 转换 (SFX)  <time="1">
+//#229 [语音] "Metal Slug 2" <time="4">
+#000 [指令] 转换 (Music) <time="1">
+
+#046 军事系统 (操作指南, 全部任务完成)
+#048 兵营 (角色选择)
+#033 审判 (关卡 1-1)
+#044 钢铁野兽 "萝卜6号" (Boss主题 A)
+#034 史前遗迹 (关卡 2-1, 2-2)
+#035 纪念碑 (关卡 2-3)
+#039 第一次接触 (Boss主题 B, 关卡 6-2)
+#036 甲板之战 (关卡 3-1)
+#040 战斗主题曲 (Boss主题 C, 关卡 6-1)
+#037 回到中国 (关卡 4-1)
+#038 新葛多金之路 (关卡 5-1)
+#042 黑暗之吻 (关卡 5-2)
+#043 变异 (关卡 5-3)
+#045 墓碑 (游戏结束)
+#041 最后之战 (关卡 6-3 / Final Boss Theme)
+#047 结束画面 (结局)
+#032 完成 (任务完成)
+
+	Note: Call #030 and #000 to switch the sound bank 
+	between SFX and music.
+
+--------------------------------------------------
+
+#030 [指令: 转换 (SFX & 语音) ] <time="1">
+
+#036 [语音] Okay
+#044 [语音] Flame shot
+#045 [语音] Heavy machine gun
+#046 [语音] Rocket launcher
+#047 [语音] Shot gun
+#048 [语音] Lazer gun
+#049 [语音] Mission 1 start
+#050 [语音] Mission 2 start
+#051 [语音] Mission 3 start
+#052 [语音] Mission 4 start
+#053 [语音] Mission 5 start
+#054 [语音] Final mission start
+#055 [语音] Mission complete
+#057 [语音] ha! (Aikawa Rumi)
+#058 [语音] Thank you. (Priosoner)
+#059 [语音] hoi (Fighting priosoner)
+#060 [语音] C'mon, boy
+#061 [语音] Go home to your mummy
+#062 [语音] ??
+#063 [语音] aahahahaha
+#064 [语音] See you in hell
+#065 [语音] hahahaha (Morden)
+#066 [语音]
+#067 [语音]
+#068 [语音]
+#069 [语音] cheers
+#070 [语音] belch
+#073 [语音] Marco
+#074 [语音] Tarma
+#075 [语音] Fio
+#076 [语音] Eri
+#078 [语音]
+#080 [语音] You're great
+#081 [语音] Mission all over
+#083 [语音] Oh, big
+#084 [语音] Armor piercer
+#085 [语音] Stone
+#086 [语音] Fire bomb
+#087 [语音] Grenade
+#088 [语音] Enemy chaser
+#089 [语音] Super grenade
+#090 [语音] Iron lizard
+#091 [语音] Drop shot
+#092 [语音] Mobile satellite
+#093 [语音] Thunder cloud
+#097 [语音] 
+#098 [语音] Bow
+#099 [语音] Ki-yi
+
+#000 [指令 : 转换 (Music) ]<time="1">
+
+  ■出品
+  Metal Slug 2 Original Soundtracks
+  Pony Canyon / Scitron  PCCB-00311  Apr 17, 1998
+
+  ■信息
+  合金弹头 X
+
+  ■中文列表编辑
+  胡里胡涂
+  http://www.chinaemu.cn
+
+$end

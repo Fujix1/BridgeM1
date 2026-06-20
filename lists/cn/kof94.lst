@@ -1,0 +1,42 @@
+﻿$name=kof94
+$version=2
+$default=$02
+//$fixed_volume=151
+$main
+
+$02 NEO-GEO 商标
+
+$2a 格斗之王 '94 (标题)
+$2d 格斗之王 '94 (MVS 标题)
+$32 死亡或出局 (选择人物)
+$21 森林保镖 (巴西队)
+$30 清理
+$22 Ne! (英国队)
+$23 龙虎之拳 (墨西哥队)
+$24 第五号贫民窟 (美国队)
+$25  蓝调 Napolitan(意大利队)
+$26 草薙 (日本队)
+$27 悲伤 (韩国队)
+$28 超能力斗士 "K.O.F 版" (中国队)
+$35 R & D的开始 (中止)
+$29 R & D的决斗 (Boss 1)
+$34 嗯.. ( Boss 1后的)
+$2b R & D摊牌  (Boss 2)
+$40 真正的礼物 (结束音乐 1)
+$41 Happy Jah両aarimasenka (结束音乐 2-1)
+$2c 落日的天空 第4部分 "Papaya Version" (结束音乐 2-2)
+$31 继续游戏 / 结束游戏
+
+  ■出品
+  拳皇 '94 / SNK  
+  Pony Canyon / Scitron  PCCB-00162  Oct 21, 1994
+  
+  ■信息
+  拳皇 '94
+　
+  ■中文列表编辑
+  creamfly
+  kina
+  http://www.chinaemu.cn
+
+$end

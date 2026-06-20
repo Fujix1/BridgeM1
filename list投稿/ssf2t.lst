@@ -1,0 +1,381 @@
+$name=ssf2t
+$default=061
+$main
+
+#061 QSound Logo
+//Main QSound
+#212 Opening Demo <0:33>
+#211 Player Select <0:31>
+#053 VS. <0:05>
+#002 Ryu Stage I <1:40.7>
+#018 Ryu Stage II <0:32.2>
+#035 Ryu Ending <1:03>
+#001 Ken Stage I <2:09>
+#017 Ken Stage II <0:48.9>
+#034 Ken Ending I <0:52>
+#033 Ken Ending II <1:24>
+//原曲 Wedding March (Mendelssohn)
+#003 E. Honda Stage I <2:09.2>
+#019 E. Honda Stage II <0:34.8>
+#036 E. Honda Ending <0:51.4>
+#004 Chun-Li Stage I <1:47.3>
+#020 Chun-Li Stage II <0:32.3>
+#037 Chun-Li Ending I <0:53.7>
+#038 Chun-Li Ending II <0:39.4>
+#062 Chun-Li Ending III <0:41.1>
+#005 Blanka Stage I <1:53.5>
+#021 Blanka Stage II <0:29.6>
+#039 Blanka Ending <0:38.2>
+#006 Zangief Stage I <1:51.8>
+#022 Zangief Stage II <0:33.6>
+#040 Zangief Ending <0:45.3>
+#007 Guile Stage I <2:15.2>
+#023 Guile Stage II <0:57.8>
+#041 Guile Ending <0:50.4>
+#008 Dhalsim Stage I <1:46.8>
+#024 Dhalsim Stage II <0:59>
+#042 Dhalsim Ending <0:36>
+#015 T. Hawk Stage I <1:16>
+#031 T. Hawk Stage II <0:35.7>
+#049 T. Hawk Ending <1:15>
+#014 Cammy Stage I <2:04.6>
+#030 Cammy Stage II <0:32.3>
+#048 Cammy Ending <1:36>
+#013 Fei Long Stage I <1:15.2>
+#029 Fei Long Stage II <0:36.1>
+#047 Fei Long Ending <0:55.4>
+#016 Dee Jay Stage I <1:19.9>
+#032 Dee Jay Stage II <0:39.4>
+#050 Dee Jay Ending <0:59.4>
+#009 M. Bison Stage I <1:47.4>
+#025 M. Bison Stage II <0:31>
+#043 M. Bison Ending <0:54>
+#010 Balrog Stage I <1:55.7>
+#026 Balrog Stage II <0:56.7>
+#044 Balrog Ending <0:54.2>
+#011 Sagat Stage I <1:57.8>
+#027 Sagat Stage II <0:26.7>
+#045 Sagat Ending <0:41.1>
+#012 Vega Stage I <2:09.5>
+#028 Vega Stage II <0:57.7>
+#046 Vega Ending <0:32>
+#054 Stage-End <0:05.8>
+#056 Here Comes The New Challenger <0:04>
+#213 A Riddle / Gouki Theme I <1:26.4>
+#214 A Riddle / Gouki Theme II <1:06.8>
+#060 Staff Roll <2:49.9>
+#055 Continue <0:38.7>
+#057 Game Over <0:04>
+#058 Ranking Display <0:04>
+#210 Unused <1:22.2>
+
+ &lt;Super Street Fighter II&gt;
+#051 Opening Demo <0:25>
+#052 Player Select <0:45.2>
+#063 Tournament <0:04>
+#059 Bonus Stage <0:48.2>
+#193 Congratulations! <1:11.8>
+
+#209 QSound Logo 2
+//Sub-QSound
+
+-----------------------------------------------------------
+ [VOICE]
+
+#171 [voice] Round
+#172 [voice] Fight
+#173 [voice] Final
+#174 [voice] You
+#175 [voice] Win
+#176 [voice] Lose
+#484 [voice] Wins
+#485 [voice] Loses
+#483 [voice] Versus
+#177 [voice] Perfect
+#454 [voice] 0
+#455 [voice] 1
+#456 [voice] 2
+#457 [voice] 3
+#458 [voice] 4
+#459 [voice] 5
+#460 [voice] 6
+#461 [voice] 7
+#462 [voice] 8
+#463 [voice] 9
+#464 [voice] Ryu
+#465 [voice] Ken
+#466 [voice] Chun-Li
+#467 [voice] Guile
+#468 [voice] E. Honda
+#469 [voice] Honda
+#470 [voice] Blanka
+#471 [voice] Dhalsim
+#472 [voice] Zangief
+#473 [voice] Bison
+#474 [voice] Balrog
+#475 [voice] Sagat
+#476 [voice] Vega
+#477 [voice] T. Hawk
+#478 [voice] Hawk
+#479 [voice] Fei Long
+#480 [voice] Cammy
+#481 [voice] Dee Jay
+#178 [voice] Japan
+#179 [voice] U.S.A.
+#180 [voice] China
+#181 [voice] Brazil
+#182 [voice] India
+#183 [voice] U.S.S.R.
+#184 [voice] Spain
+#185 [voice] Thailand
+#186 [voice] Mexico
+#187 [voice] Hong Kong
+#188 [voice] England
+#189 [voice] Jamaica
+#482 [voice] You are the champion!
+
+  RYU
+#096 [voice] 「昇龍拳」
+#097 [voice] 「波動拳」 (波動拳、ファイヤー波動拳、真空波動拳)
+#098 [voice] 「竜巻旋風脚」
+#099 [voice] 「ハッ！」 (背負い投げ、巴投げ)
+#100 [voice] 「ゥウワァァ…」 (やられ)
+
+  KEN
+#101 [voice] 「昇龍拳」 (昇龍拳、昇龍裂破)
+#102 [voice] 「波動拳」
+#103 [voice] 「竜巻旋風脚」
+#104 [voice] 「ヤァッ！」 (背負い投げ、地獄車、地獄風車)
+#105 [voice] 「ゥワァァ…」 (やられ)
+
+  E. HONDA
+#117 [voice] 「ハァッ！」 (百裂張り手)
+#118 [voice] 「エイャッ！」 (スーパー百貫落とし、俵投げ、大銀杏投げ)
+#119 [voice] 「フッ！」 (さば折り)
+#120 [voice] 「どすこい！」 (スーパー頭突き、鬼無双)
+#121 [voice] 「ガッハハハハ‥」 (勝利)
+#122 [voice] 「ゥウオォォ‥」 (やられ)
+
+  CHUN-LI
+#106 [voice] 「スピニングバードキック」
+#107 [voice] 「ヤッ！」 (百裂脚、天昇脚、千裂脚)
+#108 [voice] 「エイッ！」 (虎襲倒、龍星落)
+#109 [voice] 「気功拳」
+#110 [voice] 「ハハハハハハ…」 (勝利1)
+#111 [voice] 「やったァ！」 (勝利2)
+#112 [voice] 「アアァァ…」 (やられ)
+
+  BLANKA
+#123 [voice] 「ウワゥッ！」 (ローリングアタック、グランドシェイブローリング)
+#124 [voice] 「ワウワッ‥ワァァーゥ！」 (勝利)
+#486 [voice] 「アァッ！」 (未使用)
+#125 [voice] 「ゥエアァァ…」 (やられ)
+
+  ZANGIEF
+#129 [voice] 「リャァッ！」 (ダブルラリアット、フライングパワーボム、ストマッククロー、空中レッグスルー)
+#130 [voice] 「フゥッ！」 (スクリューパイルドライバー、ブレーンバスター、ファイナルアトミックバスター)
+#131 [voice] 「ォオオーーリャッ！」 (アトミックスープレックス)
+#132 [voice] 「ハッ！」 (パイルドライバー、アイアンクロー)
+#133 [voice] 「ッハハハハハ…」 (勝利)
+#134 [voice] 「ギエェェァ…」 (やられ)
+
+  GUILE
+#113 [voice] 「ソニックブーム」
+#114 [voice] 「ハッ！」 (ジュードースルー、フライングメイヤー)
+#115 [voice] 「フンッ！」 (ドラゴンスープレックス)
+#116 [voice] 「ウッオォォ…」 (やられ)
+
+  DHALSIM
+#128 [voice] 「ヨガ」 (ヨガファイヤー1) <0:00.5>
+#126 [voice] 「ファイヤー」 (ヨガファイヤー2)
+#128 [voice] 「ヨガ」 (ヨガフレイム1、ヨガブラスト1、ヨガインフェルノ1) <0:00.5>
+#127 [voice] 「フレイム」 (ヨガフレイム2、ヨガブラスト2、ヨガインフェルノ2)
+#128 [voice] 「ヨガ」 (ヨガスマッシュ)
+#099 [voice] 「ハッ！」 (ヨガスルー)
+#100 [voice] 「ゥウワァァ…」 (やられ)
+#128 [voice] 「ヨガ」 (ヨガテレポート1) <0:00.5>
+#402 [SE] (ヨガテレポート2)
+
+  T. HAWK
+#154 [voice] 「オォッ！」 (トマホークバスター、コンドルダイブ)
+#155 [voice] 「ンンンンーーンッ！」 (メキシカンタイフーン、ダブルタイフーン)
+#156 [voice] 「フゥッ！」 (メキシカンスルー、ネックハンギングツリー)
+#157 [voice] 「ウオォォォァ…」 (やられ)
+
+  CAMMY
+#164 [voice] 「キャノンドリル」 (海外版スパイラルアロー)
+#165 [voice] 「スパイラルアロー」
+#166 [voice] 「スラストキック」 (海外版キャノンスパイク)
+#167 [voice] 「キャノンスパイク」
+#168 [voice] 「ハッ！」 (アクセルスピンナックル、フーリガンスープレックス、フライングネックハント)
+#169 [voice] 「ヤッ！」 (フランケンシュタイナー、エアフランケンシュタイナー、フェイタルレッグツイスター)
+#197 [voice] 「スパイラルアロー、キャノンスパイク」 (スピンドライブスマッシャー)
+#199 [voice] 「キャノンドリル、スラストキック」 (海外版スピンドライブスマッシャー)
+#170 [voice] 「アアァァァ…」 (やられ)
+
+
+  FEI LONG
+#158 [voice] 「ハッ！」 (烈火拳1、烈火拳2、襲首落、烈火真拳1、烈火真拳2、烈火真拳3、烈火真拳4)
+#159 [voice] 「ホワイィィーーッ！」 (烈火拳3、烈火真拳5)
+#160 [voice] 「ホオォォアチョウ！」 (熾炎脚、力叫拳、烈空脚)
+#161 [voice] 「ハッ！」 (岩塊抱、襲首刈)
+#162 [voice] 「ホーーーーーォッ！」 (勝利)
+#163 [voice] 「ホワァァァッ…」 (やられ)
+
+  DEE JAY
+#434 [voice] 「デイッ！」 (ファンキーシャウトスルー、モンキーフリップ)
+#436 [voice] 「Kick it!」 (勝利1)
+#438 [voice] 「All right!」 (勝利2)
+#440 [voice] 「ダダッ‥」 (マシンガンアッパー1)
+#442 [voice] 「ダァッ！」 (マシンガンアッパー2)
+#444 [voice] 「ウゥゥーーッ！」 (ダブルローリングソバット1、ソバットカーニバル1)
+#446 [voice] 「ハァッ！」 (ダブルローリングソバット2、ソバットカーニバル2)
+#448 [voice] 「Slash!」 (エアスラッシャー)
+#450 [voice] 「Max out!」 (海外版エアスラッシャー)
+#452 [voice] 「ノオオォォォゥ…」 (やられ)
+
+  M. BISON
+#137 [voice] 「フゥッ！」 (ヘッドボマー)
+#138 [voice] 「オアァァーー！」 (ダッシュストレート、ダッシュアッパー、ダッシュグランドストレート、ダッシュグランドアッパー、クレイジーバッファロー)
+#136 [voice] 「ゥウオォォァ…」 (やられ)
+
+  BALROG
+#139 [voice] 「ヒャオォーーオッ！」 (フライングバルセロナアタック)
+#140 [voice] 「ヒョオーーゥッ！」  (イズナドロップ、レインボードロップ、バックスラッシュ、スカーレットテラー、ローリングイズナドロップ)
+#141 [voice] 「ヨロライヨロレーホーッ！」 (勝利1)
+#142 [voice] 「ヒッヒヒヒヒ…」 (勝利2)
+#143 [voice] 「ゥワァァァゥ…」 (やられ)
+
+  SAGAT
+#144 [voice] 「タイガー」 (タイガーショット、グランドタイガーショット)
+#145 [voice] 「タイガーアッパーカット」
+#146 [voice] 「タイガーニー」 (タイガーニークラッシュ)
+#147 [voice] 「フンッ！」 (タイガーキャリー)
+#146 [voice] 「タイガーニー」 (タイガージェノサイド1) <0:01>
+#145 [voice] 「タイガーアッパーカット」 (タイガージェノサイド2)
+#148 [voice] 「フッフッフッフ…」 (勝利1)
+#149 [voice] 「ゥワッハッハッハッハッハ…」 (勝利2)
+#150 [voice] 「ゥオオォォォァッ…」 (やられ)
+
+  VEGA
+#151 [voice] 「フゥンッ！」 (デッドリースルー)
+#152 [voice] 「フッフッフ…」 (勝利)
+#153 [voice] 「アアァァウウゥゥ…」 (やられ)
+
+  GOUKI
+#151 [voice] 「フゥンッ！」 (豪昇龍拳)
+#147 [voice] 「フンッ！」 (豪波動拳、灼熱波動拳)
+#099 [voice] 「ハッ！」 (斬空波動拳)
+#129 [voice] 「リャァッ！」 (竜巻斬空脚)
+#119 [voice] 「フッ！」 (背負い投げ、巴投げ)
+#155 [voice] 「ンンンンーーンッ！」 (勝利)
+#100 [voice] 「ゥウワァァ…」 (やられ)
+#399 [SE] (阿修羅閃空)
+
+-----------------------------------------------------------
+ [SE]
+
+#065 [SE] Credit
+#066 [SE]
+#067 [SE]
+#068 [SE]
+#069 [SE]
+#070 [SE]
+#071 [SE]
+#072 [SE]
+#073 [SE]
+#074 [SE]
+#075 [SE]
+#076 [SE]
+#077 [SE]
+#078 [SE]
+#079 [SE]
+#080 [SE]
+#081 [SE]
+#082 [SE]
+#083 [SE]
+#084 [SE]
+#085 [SE]
+#086 [SE]
+#088 [SE]
+#089 [SE]
+#090 [SE]
+#091 [SE]
+#092 [SE]
+#093 [SE]
+#094 [SE]
+#095 [SE]
+#192 [SE] <0:07>
+#194 [SE]
+#195 [SE]
+#196 [SE]
+#202 [SE]
+#203 [SE]
+#204 [SE]
+#256 [SE]
+#257 [SE]
+#258 [SE]
+#259 [SE]
+#260 [SE]
+#261 [SE]
+#264 [SE]
+#267 [SE]
+#270 [SE]
+#273 [SE]
+#276 [SE]
+#279 [SE]
+#280 [SE]
+#281 [SE]
+#282 [SE]
+#283 [SE]
+#284 [SE]
+#285 [SE]
+#288 [SE]
+#292 [SE]
+#295 [SE]
+#298 [SE]
+#299 [SE]
+#302 [SE]
+#305 [SE]
+#308 [SE]
+#309 [SE]
+#385 [SE]
+#387 [SE]
+#389 [SE]
+#391 [SE]
+#393 [SE]
+#395 [SE]
+#397 [SE]
+#399 [SE]
+#401 [SE]
+#403 [SE]
+#405 [SE]
+#406 [SE]
+#407 [SE]
+#408 [SE] <0:07>
+#410 [SE]
+#411 [SE]
+#412 [SE]
+#413 [SE]
+#415 [SE]
+#417 [SE] 歓声1
+#418 [SE] 歓声2
+#419 [SE]
+#422 [SE]
+#423 [SE] <0:07>
+#424 [SE]
+#426 [SE] <0:07>
+#428 [SE] <0:07>
+#430 [SE] <0:07>
+#509 [SE]
+
+  ■出典
+  スーパーストリートファイターII  アーケード ゲームトラック
+  Sony Records  SRCL-2822  1994.01.21
+
+  ストリートファイターII  オリジナル サウンドトラック
+  Sony Records  SRCL-2937  1994.08.01
+    &lt;"A Riddle / Gouki Theme"収録&gt;
+
+// List Contribution by NK
+$end

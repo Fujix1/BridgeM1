@@ -1,0 +1,1535 @@
+﻿// 0.7.1
+
+1941	1941 - 反击战
+1942	1942
+1943	1943 - 中途岛海战
+1943kai	1943改 - 中途岛海战
+19xx	19XX - 命运否决战
+2020bb	2020年超级棒球
+3countb	火线摔跤
+3wonders	奇迹 3 合 1
+4dwarrio	4D 战士
+720	720° 滑板小子
+88games	柯拿米运动会 '88
+aburner2	冲破火网 II
+actfancr	战斗机器
+aerofgt	音速之翼 / 四国战机 
+ainferno	空中射程
+airbustr	空中堡垒
+aircombj	皇牌空战
+alien3	异形 3
+aliens	异形
+aliensyn	异形特攻队
+alpham2	ASO II - 最后的守护神
+altbeast	兽王记
+amazon	圣战士 天照
+amidar	雷达
+androdun	勇者之击
+aodk	痛快 GANGAN 进行曲
+aof	龙虎之拳
+aof2	龙虎之拳2
+aof3	龙虎之拳 外传
+apb	APB 全国大搜查
+aquajack	战斗快艇 - 杰克小子
+aquarium	海底生物战
+arabfgt	阿拉伯战
+arabianm	阿拉伯魔法
+arkretrn	打砖块 2
+armedf	武装编队
+armwar	机甲战士
+ashura	阿修罗风暴
+assault	重装坦克
+asterix	高卢奇兵
+astorm	异形的风暴
+astyanax	战王之王
+asuka	飞鸟 & 飞鸟
+avengers	必杀! 无赖拳
+avsp	异形 对 铁血战士
+baddudes	龙行忍者
+bakatono	傻瓜殿下 - 麻雀漫游记
+bakutotu	爆突机铳艇
+bangbead	碰碰球
+batman	蝙蝠侠
+batrider	防卫厅之战警们 / 蝙蝠骑警
+battleg	空战之路
+battroad	战斗之道
+bayroute	海湾战争 / Bay Route
+bbakraid	战斗翔鹰
+berabohm	超绝伦人 Beraboh Man
+bigrun	大跑者越野赛车
+birdtry	博蒂物语
+bjourney	蓝色之旅 / 拉吉少年
+blastoff	原爆战机
+blazer	坦克先锋
+blazstar	闪亮之星 / 燃烧之星
+blkpnthr	黑豹
+blockgal	打砖块美女版
+blockout	立体空间方块
+bloodstm	血腥风暴
+bloxeed	俄罗斯方块擂台
+blstroid	爆破彗星 2 
+blswhstl	出发!! 兵蜂
+blzntrnd	摔角旋风
+bombjack	炸弹杰克
+bonzeadv	地狱小和尚
+boogwing	钩子战机
+bouldash	钻石小子
+boxyboy	仓库番
+brain	太空登陆战
+breakers	爆烈人
+breakrev	爆烈人 复仇
+brival	世纪格斗 - 燃烧的敌手
+bssoccer	街头足球
+bstars	棒球之星 专业版
+bstars2	棒球之星 2
+btlkroad	世界武术格斗比赛
+bubblem	泡泡的记忆
+bublbob2	泡泡龙 - 交响乐
+bublbobl	泡泡龙
+bubsys	Bubble System BIOS
+bucky	宇宙野兔
+burningf	热血快打
+cadash	卡达叙传说
+cameltry	魔法迷宫 - 天使水晶球
+captaven	上尉密令
+captcomm	名将
+cawing	雌虎战机
+cbuster	暴力克星
+cclimbr2	疯狂爬梯者 2
+chasehq	追踪 HQ
+chelnov	原子超人
+chinagat	西游降魔录 - 流棒妖技之章
+chinatwn	唐人街
+chplft	直升机救难
+cischeat	警车热击
+citybomb	炸弹赛车
+cleopatr	埃及艳后宝石方块
+cltchitr	职业棒球
+cobracom	眼睛蛇指令
+commando	战场之狼
+contcirc	方程式赛车 - F1 巡回赛
+contra	魂斗罗
+cosmogng	外星人趣味射击 (美版)
+cotton	棉花小魔女
+crimec	罪恶都市
+crimfght	罪恶战士
+crsword	圣十字剑
+csprint	冠军环绕赛车
+ctomaday	番茄超人
+ctribe	战斗部落
+cuebrick	砖块拼图大考验
+cworld2j	冒险问答 - 卡普空世界2
+cyberlip	战斗边缘
+cybots	机甲战士 - 全金属狂潮
+cybsled	究极坦克
+cyvern	机甲飞龙
+dakkochn	脱子雀庄
+dangar	UFO 变形金刚
+dangseed	危机四伏
+darius	太空战机
+darius2	太空战机II
+dariusg	太空战机外传 - 银鹰
+darkedge	黑暗边缘
+darkseal	暗黑封印
+//daytonaj	梦游美国 (日版)
+//daytonau	梦游美国 (美版)
+dbz2	龙珠 Z 2 - 超部门大会
+dbzvrvs	龙珠 V.R.V.S
+ddcrew	DD 部队
+ddragon2	双截龙 II - 复仇	双截龙2
+ddragon3	双截龙 3 - 罗塞塔之石	双截龙3
+ddsom	龙与地下城 2 - 暗黑秘影
+ddtod	龙与地下城 - 毁灭之塔
+deadconx	死亡边缘
+demonwld	步步惊魂
+//densdeg2	电车 de Go! 2 - 高速版
+//densdego	电车 de Go!
+devilw	魔兽王国
+devstors	饿流祸
+dietgg	乐乐小子
+digdug2	挖金子 II
+dino	恐龙新世纪
+dinorex	大恐龙格斗技传说
+dirtfoxj	污垢之狐
+djboy	DJ 男孩
+dondokod	木匠兄弟
+dotron	立体飞盘
+doubledr	双截龙 (MVS版)	双截龙mvs
+dragngun	魔龙
+driftout	越野赛车
+drivedge	方程式赛车
+dsaber	龙魂 2
+dspirit	龙魂
+dstlk	恶魔战士 - 午夜斗士
+dungeonm	光明力量
+dunkshot	大扣篮
+earthjkr	国联防卫军 - 地球王牌
+ecofghtr	环保战士
+edf	E.D.F.- 地球防卫军
+eightman	8号超人
+elvactr	电梯大战 2
+endurob2	世嘉 越野机车赛 (盗版 2)
+endurobl	世嘉 越野机车赛 (盗版 1)
+enduror	世嘉 越野机车赛
+enforce	超强火力
+eto	古今东西干支物语
+exctleag	刺激联盟
+exzisus	行星任务
+f1en	一级方程式 排器纪录
+f1gp	一级方程式 GP 大赛
+f1gp2	一级方程式 GP 大赛 II
+f1gpstar	一级方程式 GP 巨星
+f1lap	一级方程式 超级金足
+faceoff	冰上曲棍球
+fatfursp	饿狼传说 特别版
+fatfury1	饿狼传说 - 宿命之战
+fatfury2	饿狼传说 2 - 新的战斗
+fatfury3	饿狼传说 3 - 远古征战
+fbfrenzy	疯狂橄榄球
+fcombat	太空战场
+ffight	快打旋风
+fghthist	格斗列传
+fhawk	战斗猎鹰
+fightfev	狂热战门
+finalap2	最后冲剌 2
+finalap3	最后冲剌 3
+finalb	最终打击
+finallap	最后冲剌
+finehour	决战时刻
+flicky	小鸟妃奇
+flipshot	盾牌大战
+flower	花殒石
+footchmp	冠军杯足球赛
+forgottn	失落的世界 (美版)
+fourtrax	越野沙滩车
+frogger	青蛙过河
+fround	拳击决赛
+fshark	飞翔鲛
+ga2	战斧 2
+galaga88	大蜜蜂 '88
+galaxyfg	星系格斗
+galivan	宇宙刑警
+galmedes	高米达斯星战
+ganryu	武藏严流记
+gaplus	大蜜蜂加强版 / Gaplus
+gardia	巡弋飞艇
+garou	饿狼 - 群狼之证
+garyoret	臥龙列传
+gaunt2	圣铠 II
+gauntlet	圣铠
+gekirido	逆鳞弹
+gforce2	星际大争霸 II
+ghostb	迷宫猎人 G / Real Ghost Busters (美版)
+ghouls	大魔界村
+gigawing	激钢之翼
+gijoe	特种部队
+gldneye	007 Golden Eye (弹珠)
+gloc	空战神兵
+gng	魔界村
+goalx3	世界杯足球
+gokuparo	极上沙罗曼蛇
+gollygho	灵异双枪
+gondo	魔境战士
+gowcaizr	超人学园 Gowcaizer
+gpilots	魔鬼战将 / 幽灵战区
+gprider	超真实 GP 摩托车
+gradius	宇宙巡航机
+gradius3	宇宙巡航机 III - 传说神话
+grobda	坦克大战
+growl	森林保护神
+gseeker	栅幕巡航
+gt3d	金牌高尔夫 3D
+gt97	金牌高尔夫 '97
+guardian	踢馆
+gulfwar2	海湾战争 II
+gunbird	武装飞鸟
+gunbustr	飞跃颠峰
+gunfront	枪之国度
+gunlock	枪锁
+gunsmoke	荒野大镖客
+gururin	旋转方块
+guwange	狱门山物语 / Guwange
+gwarrior	银河战士
+gyruss	太空射击战 / Gyruss
+hachoo	破兆!
+hangon	世嘉 摩托车大赛
+harddunk	街头大灌篮
+hardyard	实况橄榄球
+hasamu	霸沙梦
+hbarrel	重级作战 / 重装战士
+hcastle	恶魔城 Dracula / Haunted Castle
+hellfire	地狱火
+hiimpact	狂野橄榄球
+hippodrm	激斗幻想 / Hippodrome
+hitice	暴力冰上曲棍球
+holo	虚拟武术世界
+hopmappy	跳跳鼠 / Hopping Mappy
+horekid	太空宝宝大作战
+hotdogst	眩之风暴
+hustler	电视撞球
+hvymetal	重装任务
+hwchamp	重量拳击
+hydra	海德拉
+imsorry	大头课长捡金块
+indytemp	圣战奇兵 / 魔宫传奇
+irrmaze	终极电流急急棒
+janshin	雀神传説
+journey	旅行者乐团
+joyjoy	阳光方块
+jpark	侏罗纪公园
+kabukikl	天外魔境真传
+kaiserkn	断仇牙 / 王者铁拳
+karnov	卡洛夫
+karnovr	斗士的历史 - 卡洛夫的复仇
+kittenk	猫咪仓库番
+kizuna	风云默示录 2 - 超级组队战
+knights	圆桌骑士
+kod	龙王战士
+kodure	子连狼
+kof2000	拳皇 2000	拳皇2000
+kof2001	拳皇 2001	拳皇2001
+kof94	拳皇 '94	拳皇1994
+kof95	拳皇 '95	拳皇1995
+kof96	拳皇 '96	拳皇1996
+kof97	拳皇 '97	拳皇1997
+kof98	拳皇 '98 - 梦战斗未结束	拳皇1998
+kof99	拳皇 '99 - 千年之战	拳皇1999
+konamigt	柯拿米 GT 赛车
+koshien	呜呼荣光甲子园
+kotm	魔兽之王
+kotm2	魔兽之王 2
+ktiger2	究极虎 II
+kungfum	成龙踢馆
+kyukaidk	球界道中记
+landmakr	方城战略物语
+lastblad	幕末浪漫 月华剑士
+lastbld2	幕末浪漫第二幕 月华剑士 - 月中芳华,散落月下
+lastmisn	最终任务
+lbowling	爆笑保龄球
+ldrun	超级运动员
+ldrun2	超级运动员 II - 帝国的反击
+ldrun3	超级运动员 III - 魔神的复活
+le2	双枪 II / Lethal Enforcers II
+legendos	传说之虎
+legion	超时迷宫 / 飞行军团
+lemmings	旅鼠总动员 / 疯狂小旅鼠
+lethalen	双枪 / Lethal Enforcers
+lghost	鬼魂射击 / Laser Ghost
+lgtnfght	火龙
+liblrabl	超级连一连 / 几何魔宝 / Libble Rabble
+liquidk	水之精灵 / 丑八怪大冒险
+lockload	抢匪追缉令
+loffire	火线行动 - 爆弹野郎
+lomakai	魔魁传説
+lresort	终极手段 / Last Resort
+luckywld	警匪双枪 / Lucky & Wild
+lwings	翼人
+macross2	超时空要塞 Macross II
+madmotor	疯狂摩托 / Mad Motor
+magdrop2	魔法气泡 2
+magdrop3	魔法气泡 III
+maglord	幻魔大战
+mahoudai	魔法大作战
+mahretsu	麻雀狂列传 西日本篇
+mainevt	拳击擂台
+manybloc	拉霸拼图
+mappy	猫捉鼠
+marble	疯狂弹珠
+marukodq	小丸子问答
+marvland	奇异岛 (美版)
+masterw	魔幻兵器
+mazinger	铁甲万能侠 / Z 大魔神
+mcatadv	魔猫森林
+megab	空间战机 / Mega Blast
+megaman2	洛克人 2 - 力量勇士
+mercs	战场之狼 II
+metalb	黑金属战机
+metamrph	变形战士
+metlhawk	合金猎鹰 / 钢铁神鹰
+mia	绿色兵团 2
+miexchng	金钱游戏 / Money Idol Exchanger
+minasan	麻雀大富翁
+mirninja	未来忍者 - 庆云机忍外传
+mjnquest	麻雀探险
+mk	真人快打
+mmatrix	弹丸地狱 / 火星任务
+mmaze	爱丽丝冒险世界 / Marchen Maze
+mofflott	赛车迷宫 / Maze of Flott
+moo	疯狂西部牛仔
+moonwalk	外星战将
+mosyougi	将棋达人
+motofren	疯狂摩托 / Moto Frenzy
+motos	碰碰车 / Motos
+mpatrol	月球巡警
+mrkougar	鬼灵精先生
+mrviking	失落的维京人
+msh	超级漫画英雄
+mshvsf	超级漫画英雄 对 街霸
+mslug	合金弹头
+mslug2	合金弹头 2
+mslug3	合金弹头 3
+mslugx	合金弹头 X
+msword	魔法剑 - 英雄的幻想
+mtwins	双麟儿 / 魔法男孩
+mugsmash	火线追缉 / Mug Smashers
+mustangb	野马战机 / US AAF Mustang (盗版)
+mutnat	外星游龙 / 变异种族
+mvp	M.V.P
+mvsc	漫画英雄 对 Capcom
+myhero	青春 Scandal
+mystwarr	怒之忍者 / Mystic Warriors
+nam1975	越战-1975
+nastar	王者之剑 II
+nbajam	NBA 篮球
+nbajamte	NBA 篮球淘汰赛
+ncombat	忍者大战
+ncommand	忍者战士
+nemesis	宇宙巡航机 / 复仇女神
+nemo	梦幻冒险 - Nemo
+neobombe	炸弹夫 - Neo 机皇版
+neocup98	Neogeo 杯 '98  - 胜利之路
+neodrift	Neo 越野赛车
+neomrdo	Neo Mr. Do!
+nightstr	午夜出击
+ninjak	忍者 - 布娃娃迷你版
+ninjamas	忍者高手 - 霸王忍法帖
+ninjaw	忍者武士
+ninjemak	妖魔忍法帖
+nitd	黑暗守墓者
+noboranb	怪叔叔救美 (盗版)
+nost	超电磁炮 / Nostradamus
+nwarr	吸血鬼猎人 - 恶魔的复仇
+offtwall	奇幻世界 / Off the Wall
+opwolf	野狼行动
+ordyne	欧坦救美 / Ordyne
+orunners	环游世界大赛车 / Out Runners
+oscar	钢铁金刚 / Psychonics Oscar
+outrun	世嘉 赛车 / Out Run
+outzone	异域战将 / Out Zone
+overdriv	Over Drive
+overtop	极速赛车
+p47	P-47
+pacmania	小精灵 - 疯狂吃豆 (美版)
+pacnpal	小精灵 - 豆西 & 豆乐
+pairs	美女扑克对对碰
+pang3	魔法气泡 3 - 怪盗们的华丽午后
+panicbom	炸弹夫方块 / 炸弹危机
+paperboy	送报男孩
+parodius	Q版沙罗曼蛇 
+pbobbl2n	泡泡龙 2 (NeoGeo版)
+pbobble	泡泡龙
+pbobble2	泡泡龙 2
+pbobble3	泡泡龙 3
+pbobble4	泡泡龙 4
+pbobblen	泡泡龙 (NeoGeo版)
+pdrift	超级赛车 / Power Drift
+peterpak	彼得老鼠
+pgoal	开心射门 / Futsal - 5 对 5 迷你足球
+phelios	翼人战士
+phozon	原子图形 / Phozon
+pipibibs	皮皮与比比
+pistoldm	手枪大名冒险
+pitfall2	陷阱 II
+pitfight	角斗士
+plusalph	趣味战机 / Plus Alpha
+plygonet	超级指挥官
+pnickj	魔法方块
+popbounc	跳跳球 / 动物方块
+popnpop	幽游气球解谜 / Pop 'N Pop
+preisle2	原始岛 2
+pspikes2	超级排球 II
+psyforce	超能力大战 / Psychic Force
+puchicar	浦吉克拉 - 宝石王国的世界
+pulirula	普利路拉传说
+pulstar	死亡之星 / 惑星战机
+punisher	惩罚者 / 复仇者
+punkshot	庞克篮球
+puzlclub	解谜俱乐部 (行程版)
+puzloop2	Puzzloop 2
+puzzledp	解谜气泡
+pwheelsj	四驱赛车
+pwrgoal	Taito 足球 95 / Hat Trick Hero '95 / Taito Power Goal
+qad	龙之迷题 (美版)
+qcrayon	蜡笔小新问答
+qcrayon2	蜡笔小新问答 - orato asobo
+qjinsei	问答人生剧场
+qndream	问答 七彩梦 - 虹色町的奇迹
+qtono2	问答 信长之野望 2 全国版
+qtorimon	苦胃头捕物帐
+quester	打砖块卫星 / Quester
+quizdai2	问答 大搜查线 Part 2 - 问答迷侦探 Neo & Geo
+quizdais	问答 大搜查线 - 最后倒计时
+quizf1	问答 一级方程式问答
+quizhq	问答 大本营
+quizhuhu	森口博子问答
+quizkof	拳皇问答
+qzchikyu	问答 地球防卫军
+qzquest	问答搜查 - 英雄美女物语
+qzshowby	问答世界 Show by Show by!!
+racinfrc	瑞金赛车 / Racing Force
+radm	鏒风追逐 / Rad Mobile
+raflesia	银河系战机 / Rafflesia
+ragnagrd	神凰拳
+raiden	雷电
+raiden2	雷电 II
+raidendx	雷电DX
+raimais	光速飞跃车
+rainbow	彩虹岛
+rallybik	拉力摩托 / 冲刺野郎
+rambo3	兰博 III
+rastan	王者之剑
+rbff1	Real Bout 饿狼传说
+rbff2	Real Bout 饿狼传说 2 - 新的来者
+rbffspec	Real Bout 饿狼传说 特别版
+rchase	铁路追踪
+regulus	星球战车
+ridhero	风速英雄
+riotcity	暴乱之城
+riskchal	小迷糊闯天关 / Gussun Oyoyo
+roadblst	爆裂赛车
+roadriot	道路风暴 - 四轮传动
+roadrunn	BB 鸟 / Road Runner
+roboarmy	机甲神兵
+robocop	机械战警 / 铁甲威龙
+rodland	妖精物语 Rod-land
+rohga	Wolf Fang - 空牙2001
+roishtar	依希塔复活
+rompers	吊带小子 / Rompers
+rrreveng	道路风暴复仇版 / Road Riot's Revenge
+rthun2	滚雷 2
+rthunder	滚雷
+rtype	龙神号 / 异域战机
+rtype2	龙神号 II / 异域战机 II
+rtypeleo	龙神号 Leo / 异域战机 Leo
+rungun	大灌篮 / Run & Gun
+rungun2	大灌篮 2 / Run & Gun 2
+rushhero	橄榄球英雄
+rvschool	私立公平学园 / Rival School
+ryujin	龙神
+s1945	打击者 1945
+s1945jn	打击者 1945 (武装飞鸟 hardware)
+s1945p	打击者 1945 plus
+salamand	沙罗曼蛇
+salmndr2	沙罗曼蛇2
+samsho	侍魂
+samsho2	侍魂 II / 真侍魂 - 霸王丸地狱变
+samsho3	侍魂 III - 斩红郎无双剑
+samsho4	侍魂 IV - 天草降临
+savagere	风云默示录 - 格斗创世
+sbm	超级拳王 / Sonic Blast Man
+scfinals	Taito 足球 '93 / Hat Trick Hero '93 / Super Cup Finals
+sci	S.C.I. / 特别刑事调查组
+scramble	紧急起飞
+sdodgeb	热血高校躲避球部
+sectionz	Z 地带
+seganinj	忍者王子
+selfeena	魔法公主
+sengekis	闪激 Striker
+sengoku	战国传承
+sengoku2	战国传承 2
+sengoku3	战国传承 2001
+sexyparo	性感疯狂大射击 / Sexy Parodius
+sf1	街头霸王	街头霸王1
+sf2	街头霸王 II - 天下斗士	街头霸王2
+sf2ce	街头霸王 II' - 四大天王	街头霸王2d
+sfa	少年街霸	少年街霸1
+sfa2	少年街霸 2	少年街霸2
+sfa3	少年街霸 3	少年街霸3
+sfchamp	超级冠军足球
+sfex	街头霸王 EX	街头霸王ex
+sfex2	街头霸王 EX 2	街头霸王ex2
+sfex2p	街头霸王 EX 2 plus	街头霸王ex2p
+sftm	街头霸王 电影版	街头霸王电影
+sg2j	星际格斗 2
+sgunner2	反恐精英 2 / Steel Gunner 2
+shackled	链狱谜城 / Breywood / Shackled
+shadfrce	变身忍者 
+shadowld	妖怪道中记
+shangon	超级摩托车 / Super Hang On
+sharrier	太空哈利
+shdancer	影舞者
+shimpact	超级狂野橄榄球 / Super High Impact
+shinobi	忍
+shippumd	疾风魔法大作战 - 王国大赏
+shisen2	四川省 女子寮编
+shocktr2	突击骑兵 第二纵队
+shocktro	突击骑兵
+shtngmst	射击大师
+shufshot	沙狐球大进击 / Shuffleshot
+sidepckt	花式撞球 - 瞄准腰袋
+silentd	沉默之龙
+simpsons	辛普森一家
+skullxbo	神鬼奇航 - 鬼盗船魔咒 / Skull & Crossbones
+skykiddx	天空小子 DX
+slammast	摔跤霸王
+slyspy	间谍末日 / Secret Agent
+smashtv	霹雳趣味大竞赛 / Smash T.V
+snowbros	雪人兄弟 - Nick & Tom
+socbrawl	机器人足球
+soldamj	苏登益智方块 / Soldam
+solfigtr	沉默战士
+solvalou	太空大战 / Solvalou
+sonicwi2	音速之翼 2 / 四国战机 2
+sonicwi3	音速之翼 3 / 四国战机 3
+spacedx	宇宙侵略者 DX
+spatter	三轮小三
+spcinv95	Q版太空入侵者
+spcinvdj	宇宙侵略者 DX (F3版)
+spclords	太空君主
+spidey	蜘蛛侠
+spinmast	滑轮大师 / 强尼大冒险
+splatter	鬼屋
+srdarwin	黑暗之风 2
+ssf2	超级街头霸王 II - 新的来者
+ssi	宇宙侵略者 Part IV
+ssideki	得点王
+ssideki2	得点王 2 - 实战足球
+ssideki3	得点王 3 - 光荣的挑战
+ssideki4	得点王 4 - 火炎之 Libero
+ssprint	环绕赛车
+ssriders	落日骑士 / 西部牛仔
+stadhero	棒球英雄
+stagger1	红鹰 / Stagger I
+stakwin	赏金猎手 - GI 完全制霸之道
+stakwin2	赏金猎手 2
+starblad	星际保卫战 / Star Blade
+starjack	星际母舰
+starwars	星球大战 (Atari版)
+stdragon	天圣龙
+steeltal	钢爪
+strhoop	街头篮球
+strkfgtr	捍卫铁鹰 / Strike Fighter
+stunrun	S.T.U.N. 赛车 
+supbtime	汉堡时代超级版
+superchs	大追捕 - 罪恶终结者
+superman	超人
+superpac	小精灵 - 超级吃豆
+superspy	谍报飞龙
+suprloco	超级蒸气火车
+suprslam	灌篮高手 / 篮球飞人
+suzuk8h2	铃鹿8小时 2
+suzuka8h	铃鹿8小时
+swat	史瓦特
+sws92	超级世界棒球 '92
+tankfrce	坦克大战 2
+tapper	酒保 / Tapper
+tattass	Tattoo Assassins (弹珠)
+tbyahhoo	兵蜂 Yahhoo!
+teddybb	泰迪男孩布鲁斯 / Teddy Boy Blues
+tengai	战国之刃
+term2	终结者 2 - 世界末日
+terraf	地球自卫队 / Terra Force
+tetrisp2	俄罗斯方块 Plus 2
+tgmj	俄罗斯方块 the Grand Master
+tharrier	旋风战斗机
+thndrbld	蓝色霹雳号
+thndrx2	雷霆战机 II
+thunderj	霹雳大白鲨
+thunderx	雷霆战机 (美版)
+thundfox	雷狐战士
+timekill	时空杀手
+timeplt	时光飞行员
+tmnt	T.M.N.T. 忍者神龟
+tmnt2	T.M.N.T. 忍者神龟 2
+todruaga	魂坉之塔
+tokio	轰炸东京 / Scramble Formation
+tokisens	时间战士
+toobin	救生圈滑水赛 / Toobin
+tophuntr	顶尖猎人
+topland	顶尖飞行模拟
+topspeed	最高时速
+totcarn	黑珍珠部队 / Total Carnage
+toutrun	环游世界大赛车极速版 / Turbo Out Run
+toypop	童话世界 / Toy Pop
+tpgolf	顶尖高尔夫
+trally	极速英豪
+triothep	艳拳三强男 - 胜负拳
+trog	恐龙捡蛋 / Trog
+trojan	斗者挽歌
+tron	电子世界争霸战 / Tron
+trstar	拳击格斗 / Top Ranking Stars
+truxton	达人
+ts2j	斗神传2
+tumblep	捉鬼大师
+turfmast	大联盟高尔夫
+turtles	乌龟冒险 / Turpin
+tutankhm	图坦卡门
+twinbee	兵蜂
+twincobr	究极虎
+twinqix	Twin Qix
+twinspri	梦幻小妖精
+tws96	Tecmo 世界杯足球 '96
+uballoon	终极气球
+ufosensi	UFO 战士
+undrfire	枪火之下
+unsquad	战区 88
+upndown	金龟车大跃进 / Up'n Down
+valkyrie	女武士传说
+varth	威虎战机 - 雷暴行动
+vcop	VR特警
+vendetta	城市英雄 2
+vf	VR战士
+vhunt2	吸血鬼猎人 2 - 恶魔的复仇
+viewpoin	V 计划 - 视点
+vindctr2	坦克大作战 II
+vindictr	坦克大作战
+viofight	暴力格斗
+viostorm	街头风雨
+volfied	异形天蚕变 / Volfied
+vrracin	VR赛车
+vsav	恶魔救世主
+vsav2	恶魔救世主 2
+vulcan	宇宙巡航机 II - Gofer 的野心
+wakuwak7	火热火热 7
+wardner	瓦德纳森林
+wb3	神奇男孩 III - 魔窟
+wbml	神奇男孩 - Monster Land
+wcbowl	世界杯保龄球
+wh1	世界英雄
+wh2	世界英雄 2
+wh2j	世界英雄 2 JET
+whp	世界英雄 完美版
+willow	威洛之旅
+wingwar	飞行战争 (R360版)
+winspike	胜利排球
+wjammers	超级飞碟球 / 野外排球
+wldcourt	世界球场
+wmatch	游泳比赛
+wndrmomo	神奇女孩
+wndrplnt	不思议的星球
+wof	吞食天地 II - 赤壁之战
+ws	职业棒球 世界竞技场
+wwfsstar	WWF 超级明星
+wwfwfest	WWF 狂热摔角
+xexex	新锐惑星 / Xexex
+xfiles	The X-Files (弹珠)
+xmcota	X 战警格斗版 - 磁场原子人
+xmen	X 战警
+xmvsf	X 战警 对 街霸
+xybots	迷宫任务 / Xybots
+yesnoj	Yes/No 心电图
+yuyugogo	悠悠问答 GO! GO!
+zedblade	末日之战 / Z 字军刀
+zerowing	零式战机
+zupapa	欢乐精灵 - 星星大作战 / Zupapa!!
+
+//--------------------------------------------------------------
+// Added in 0.7.2
+
+1944	1944 - 空翻大师
+64street	64街 - 一个侦探的故事
+afighter	战斗任务
+afm_113	Attack from Mars (弹珠)
+airduel	空中决战
+ajax	飓风直升机 / Typhoon (美版)
+ajaxj	飓风直升机 / A-JAX (日版)
+alexkidd	天空魔城
+arknoid2	打砖块 - DOH 复仇
+aurail	战地自走炮
+baraduke	爆突
+batcir	战斗回路
+battlnts	反战英雄
+bbmanw	炸弹夫世界
+bchopper	Mr.HELI 大冒险 / Battle Chopper
+bel	敌后行动 / 深入敌后
+bladestl	金牌冰上曲棍球
+blockhl	俄罗斯方块 - 黑洞
+bodyslam	Body Slam / Dump 松本
+bottom9	世界棒球
+bsscoccer	街头足球
+btoads	忍者蛙
+bubbletr	灵异双枪 2
+burnforc	燃烧之魂
+cc_13	Cactus Canyon (弹珠)
+chqflag	街头赛车
+circusc	马戏团
+cninja	战斗原始人
+combasc	战斗学校
+congo_21	Congo (弹珠)
+corv_21	Corvette (弹珠)
+cosmccop	雷驰 - 武装警察
+cosmognj	外星人趣味射击 (日版)
+cp_16	Champonship Pub (弹珠)
+crusnusa	极速狂鏒
+crusnwld	极速狂鏒 2
+cv_14	Cirqus Voltaire (弹珠)
+daiskiss	恋爱学园迷你游戏
+dbreed	神龙太子
+dbz	龙珠 Z
+ddragon	双截龙
+ddribble	两次运球
+deroon	益智迪诺
+dfeveron	弹铳飞翼
+dh_lx2	Duty Harry (弹珠)
+dleague	震撼联盟
+dm_lx4	Demolition Man (弹珠)
+doa	死或生
+domino	骨牌人
+dragoonj	战斗英雄
+drgnbstr	屠龙记
+drivedge	Drivers Edge
+dumpmtmt	Dump 松本
+dw	吞食天地 / 王朝战争 (世界版)
+dwj	吞食天地 (日版)
+dyger	特攻队
+dynabb	日本职棒
+dynamcop	刑事快打 / 爆裂刑事
+edrandy	爱德华 蓝迪
+esb	星球大战 - 帝国的反击
+esprade	长空超少年 / ESP Ra.De.
+eswatbl	电脑战警 E-Swat (盗版)
+fantzone	神奇地带 (美版)
+fantzono	神奇地带 (日版)
+fs_lx5	Flintstones (弹珠)
+fstarfrc	最终星际武力
+fvipers	格斗毒蛇
+gallop	雷驰 - 武装警察
+gbusters	疯狂警察 / Gang Busters
+genpeitd	源平讨魔传
+ginkun	前代末间大爆笑
+goldnaxe	战斧
+gstriker	足球盛况
+gunblade	纽约枪战
+heavyunt	Heavy Unit
+i500_11r	Indianapolis 500 (弹珠)
+ij_l7	Indiana Jones (弹珠)
+imgfight	梦幻战机
+jackal	赤色要塞 / 特殊部队 豺
+jb_10r	Jack Pot (弹珠)
+jd_l7	Judge Dredd (弹珠)
+jdredd	超时空战警
+jedi	星球大战 - Jedi 归来
+jm_12r	Johnny Mnemonic (弹珠)
+jy_12	Junkyard (弹珠)
+kick	小丑接气球
+kidniki	快杰洋枪
+kinst	杀手学堂
+kinst2	杀手学堂 2
+kodj	龙王战士
+kroozr	飞碟大战
+lastbrxa	Last Bronx - 东京番外地
+ldrun4	超级运动员 IV - 逃离帝国
+lifefrce	生命力量 (美版)
+lifefrcj	生命力量 (日版)
+loht	汤玛魔界历险
+lotlot	空间转移
+macrossp	超时空要塞 Macross Plus
+mb_10	Monster Bash (弹珠)
+megaman	洛克人 - 力量对决
+metrocrs	障碍赛跑
+midres	午夜攻击
+midresj	午夜攻击 (日版)
+mjleague	棒球联盟
+mk2	真人快打 II
+mk3	真人快打 3 / 终极真人快打 3
+mm_10	Medieval Madness (弹珠)
+mpangj	魔鬼气泡
+mrheli	Mr.HELI 大冒险
+mstadium	世界棒球 / Main Stadium
+mx5000	冥王战机 / Flack Attack / MX5000
+narc	毒品搜查官
+nbaf_31	NBA Fast Break (弹珠)
+nbahangt	NBA 篮球 悬空
+nf_23x	No Fear (弹珠)
+ngg_13	No Good Gofers (弹珠)
+nspirit	最后的忍道 / Ninja Spirit (美版)
+nspiritj	最后的忍道
+offroadc	越野车队
+opengolf	柯拿米冠军高尔夫公开赛 / Golfing Greats 2
+openice	冰上曲棍球公开赛 - 二对二双打
+opwolf3	野狼行动 3
+pacland	小精灵领域 / Pac-Land
+pacmanij	小精灵 - 疯狂吃豆 (日版)
+pipedrm	梦幻之笛
+pltkids	飞行小子
+pop_lx5	大力水手 (弹珠)
+prmrsocr	顶级足球
+puzldama	对战解迷球
+qadj	龙之迷题
+quartet	星战四人组
+quizmoon	美少女战士问答 - 智力 体力 时运
+recordbr	世界铁人运动会 / Recordbreaker
+renegade	热血硬派 国夫君 / 叛徒 (美版)
+revx	X 革命
+ringdest	超级摔角霸王 - 连环爆裂
+rmpgwt	城市大金刚 - 毁灭世界 / Rampage World Tour
+robocop2	机械战警 / 铁甲威龙 2
+rs_l6	Red and Ted's Roadshow (弹珠)
+rushcrsh	高速追击令 / Rush & Crash
+ryukendn	忍者龙剑传 (日版)
+ryukyu	琉球
+sc_18	Safe Cracker (弹珠)
+schamp	音速小子格斗
+scontra	超级魂斗罗
+scudrace	疾行狂鏒
+sdi	SDI - 战略防卫构想
+sfzch	少年街霸 (CPS Changer版)
+sgemf	超级口袋战士
+sgt24h	超级 GT 赛车 24 小时
+sgunner	反恐精英 / Steel Gunner
+shollow	射击谷 / Satan's Hollow (set 1)
+shollow2	射击谷 / Satan's Hollow (set 2)
+sidearms	绝对合体 / Side Arms - Hyper Dyne
+skykid	天空小子
+slapshot	火爆群龙 - 守门大对决 / Slap Shot
+soccerss	足球超级明星
+solarfox	太阳之狐 (音效)
+solfigtr	沉默战士
+spf2t	超级方块霸王 2 Turbo
+srumbler	高速追击令 / The Speed Rumbler (美版)
+ss_15	Scared Stiff (弹珠)
+ssf2t	超级街头霸王 II Turbo
+stcc	世嘉 巡回赛车锦标赛
+sttng_l7	Star Trek: The Next Generation (弹珠)
+sutapper	酒保 (Suntory)
+syvalion	黄金龙战记 / Syvalion
+tail2nos	超级方程式 - 地面最高速作战
+taotaido	苏婆诃格斗 - 太鸥体道
+tetris	俄罗斯方块 (Sega)
+thehustl	撞球高手 - 骗子
+thnderxj	雷霆战机 (日版)
+tkdensho	斗姫传承
+tkmmpzdm	心跳回忆 对战解迷球
+tnzs	小鸡尼泽的故事
+tokkae	对战替换球
+tom_13	Theatre of Magic (弹珠)
+totan_14	Tales of the Alabian Nights (弹珠)
+ts_lx5	The Shadow (弹珠)
+turtship	海底大冒险 / Turtle Ship
+twotiger	双虎 (音效)
+twotigra	双虎 (音效) (dedicated)
+uopoko	小猫钓鱼
+vaportra	空牙
+vf2	VR战士 2
+von	电脑战机 Virtual-on
+vs2v991	VR射手 2 (ver99.1)
+vstriker	VR射手
+wacko	太空魔宝/ Wacko (音效)
+wcs_l2	World Cup '94 (弹珠)
+wd_12	Who Dunnit (弹珠)
+wecleman	利曼 24 小时赛车
+welltris	立体空间俄罗斯 / Welltris
+worldc94	World Cup '94
+wwfmania	WWF 疯狂摔角
+xmultipl	X 战机
+zerogun	零式枪手
+
+
+// Changed or updated in 0.7.2
+
+dadandrn	究极战队 Dadandarn
+gaiapols	黄金鹰之剑
+mutantf	怪兽快打 / Death Blade / Mutant Fighter
+
+
+//---------------------------------------------------------
+// Added in 0.7.3
+
+airco22b	皇牌空战 22
+aliensya	异形特攻队 (美版 / 日版)
+alpinerd	立体滑雪
+arknid2j	打砖块 - DOH 复仇 (日版)
+arknid2u	打砖块 - DOH 复仇 (美版)
+blktiger	暗黑之龙 / 暗黑之虎
+chasehqj	追踪 HQ (日版)
+cybrcomm	未来坦克
+cybrcycc	CC摩托
+danceyes	3D 天蚕变 - 舞动的眼睛
+darksel2	暗黑封印 II (日版)
+digdug	挖金子
+dunkmnia	疯狂篮球
+docastle	嘟先生的城堡
+dorunrun	小丑贝洛
+douni	嘟先生对独角兽
+dowild	嘟先生的暴走
+eprom	机械怪兽大逃亡
+galaga	大蜜蜂
+gemini	捉虫敢死队 / 双子星 / 昆虫世界
+getstar	星球守护者
+godzilla	哥吉拉
+hharry	大力工头 阿源
+heatbrl	狂热印地安
+hotchase	公路热击
+iganinju	伊贺忍术传
+jjack	跳跃杰克
+kickridr	暴力机车赛
+lastduel	决战
+madgear	疯狂机车
+marvlanj	奇异岛 (日版)
+meikyuh	迷宫猎人 G (日版)
+myangel3	育婴问答 - 亲亲小宝贝 3
+nebulray	星云战机 / Nebulas Ray
+perfrman	火蚁超人 / Performan
+plumppop	狗狗乐园 / Plump Pop
+primglex	Prime Goal EX
+propcycl	空中自行车
+psychic5	灵童 5
+raveracw	颠峰赛车 3
+//ridger2j	颠峰赛车 2
+//ridgeraj	颠峰赛车
+rockrage	恋爱热摇滚 / Rock 'n Rage
+rollerg	暴力溜冰 / Rollergames
+rygar	阿尔卑斯古战士 / Rygar
+scudscsp	疾行狂鏒 / Scud Race (SCSP)
+sideby2	机动赛车 2
+silkworm	联合大作战
+skytargt	天空目标
+slapfigh	电子作战 / Slap Fight
+souledgb	魂之利刃 (SO1/VER.A)
+souledge	魂之利刃 Ver.II (SO4/VER.C)
+starswep	星星大扫除 - 解谜俄罗斯方块 / Star Sweep
+stridrua	出击飞龙 (set 2)
+tceptor2	立体漂浮战 II / 3D Thunder Ceptor II
+tekken	铁拳
+tekken2b	铁拳 2 (TES2/VER.A)
+terracra	火凤凰 (OPN版)
+terracrb	火凤凰 (OPL版 2)
+tigerh	老虎直升机
+timecrsa	时空危机
+topskatr	顶尖滑板
+tz_92	Twilight Zone (弹珠 ver 9.2)
+vf3	VR战士 3
+victlapw	A级方程式赛车 - 胜利金足
+von2	电脑战机 2
+vs2	VR射手 2
+vs298	VR射手 2 Version '98
+vs299	VR射手 2 Version '99
+wc90	Tecmo 世界杯足球 '90
+windheat	劲风赛车 / Winding Heat
+xevi3dg	铁板阵 3D/G
+xevious	铁板阵
+
+// Changed in 0.7.3
+
+bullfgt	斗牛
+csclub	卡普空运动俱乐部
+dynablst	炸弹夫 / Dynablaster
+gnr_300	Guns'n Roses (弹珠)
+hotd	死亡鬼屋
+jupk_513	侏罗纪公园 (弹珠)
+lah_112	Last Action Hero (弹珠)
+lw3_208	Lethal Weapon III (弹珠)
+mtlchamp	武术冠军
+rab_130	Rocky & Bullwinkle (弹珠)
+shadoww	忍者龙剑传 / 忍者外传 / Shadow Warriors
+scross	越野机车 / Studium Cross
+srallyc	世嘉 拉力
+stratof	雷牙
+strider	出击飞龙 (set 1)
+shiryu2	出击飞龙 2
+stwr_103	星球大战 (弹珠)
+techromn	超钢战纪 机械王 / Tech Romancer
+terracre	火凤凰 (OPL版 1)
+tftc_303	Tales from the Crypt (弹珠)
+twinhawk	大旋风 / Twin Hawk
+thndzone	闪电区域 / Dessert Assault
+tomy_400	Tommy Pinball Wizard (弹珠)
+trek_201	Star Trek 25th Anniversary (弹珠)
+vgoalsoc	胜利射门 / Tecmo V Goal Soccer
+wildfang	邪城风云 / Wild Fang / Tecmo Knight
+wizdfire	暗黑封印 II / 毁灭之门 II (美版)
+wwfr_106	WWF Royal Rumble (弹珠)
+
+
+//--------------------------------------------------------------------------------
+// Added in 0.7.4
+
+acedrvrw	国际车神
+agallet	石破天惊 / 亚空天惊
+barbwire	Barb Wire (弹珠)
+batmanf	Batman Forever (弹珠, ver 4.0)
+baywatch	Baywatch (弹珠)
+bermudat	百慕大魔鬼三角
+bighurt	Big Hurt (弹珠)
+bbnny_l2	Bugs Bunny's Birthday Bash (弹珠)
+cactjack	Cactus Jack (弹珠)
+carhop	Car Hop (弹珠)
+clas1812	Class of 1812 (弹珠)
+cueball	Cue Ball Wizard (弹珠)
+deadweap	Deadly Weapon (弹珠)
+exterm	灭杀者
+f1dream	一级方程式 梦语
+freddy	Freddy: A Nightmare on Elm Street (弹珠)
+gladiatp	Gladiators (弹珠)
+gwar	古巴战士 / 革命英雄
+indy500	印弟500
+landgear	飞行模拟
+lostwrld	失落的世界
+manxtt	麦斯超级机车赛
+andretti	Mario Andretti (弹珠)
+frankst	Mary Shelley's Frankenstein (弹珠)
+missb2	Miss Bubble 2
+opthund	Operation Thunder (弹珠)
+psychos	超能力战士
+rescu911	Rescue 911
+shaqattq	Shaq Attack (弹珠)
+silvslug	Silver Slugger (弹珠)
+southpk	South Park (弹珠)
+speedrcr	马赫 Go! Go! Go! / Speed Racer
+stargatp	Stargate (弹珠)
+sfight2	街头霸王 II (弹珠)	街头霸王2p
+smb	Super Mario Bros. (弹珠)
+surfnsaf	Surf'n Safari (弹珠)
+teedoffp	Teed Off (弹珠)
+tigeroad	虎之道
+tfight	Title Fight (弹珠)
+toramich	虎之道 (日版)
+tdfever	美式橄榄球 / Touchdown Fever
+tdfeverj	美式橄榄球 / Touchdown Fever (日版)
+vegas	Vegas (弹珠)
+victroad	怒号层圈
+vcop2	VR特警 2 / 洛曼帝警察 2
+waterwld	Waterworld (弹珠)
+wipeout	Wipeout (弹珠)
+wcsoccer	World Challenge Soccer (弹珠)
+
+// Changed in 0.7.4
+
+cupsoc	西武杯足球赛
+
+
+//--------------------------------------------------------------------------
+// Added in 0.7.5a3
+
+//aquarush	水世界立体方块
+//asurabld	血剑王朝 / Asura Blade
+//daytona2	梦游美国 2
+//daytona2scsp	梦游美国 2 (SCSP)
+//mdhorse	问答 我的赛马梦想
+//dirtdevils	越野障碍赛
+//ehrgeiz	斗魂 / Ehrgeiz
+//flayer	Fighting Layer
+//golgo13	Golgo 13
+//mrdrillr	钻头先生
+//ncv1	Namco 名作剧场 Vol.1
+//ncv2	Namco 名作剧场 Vol.2
+//kuniokun	热血硬派 国夫君 (日版)
+//outrunp	Out Run (prototype?)
+//outfxies	异域战狐
+//pacapaca	Paca Paca Passion Special
+ptblank	枪林弹雨
+//srally2	世嘉 拉力 2
+//segarally2	世嘉 拉力 2 (SCSP)
+//sideby	Side By Side
+//soulclbr	灵魂能力 / 刀魂
+sws99	超级世界棒球 '99
+tekken3	铁拳 3
+
+// Removed in 0.7.5a3
+legionna	格斗贵族
+
+
+
+//------------------------------------------------------------------------------
+// Added in 0.7.5
+
+aceattac	王牌攻击
+arescue	空中支援
+aquarush	水世界立体方块
+arkarea	宇宙飞艇
+asurabld	血剑王朝
+beastrzr	血腥咆哮 / 兽人格斗 - Hyaper Beast Duel
+bbbxing	世界拳击 - 挑战
+bmaster	刀锋领主
+bldyror2	血腥咆哮 2 / 兽人格斗 2 - Bringer of the New Age
+brvblade	勇敢刀锋
+bullet	战场雄兵
+cottonj	棉花小魔女 (日版)
+daytona2	梦游美国 2 - Battle on the Eadge
+mdhorse	问答 我的赛马梦想
+desertbr	地狱门
+desertwr	湾岸战争
+ddux	怪鸭冒险记
+ehrgeiz	斗魂
+f1superb	一级方程式 超级争霸战
+fgtlayer	格斗领域 / 银河忍者
+fpoint	俄罗斯方块解谜
+gp500	500GP 重型机车赛
+godzilla	哥斯拉
+golgo13	阻击手13
+gratia	飞鹰任务 (92047-01 version)
+gslugrsj	超级强打
+gslgr94u	超级强打 '94
+gunforce	战火惊魂
+gunforc2	战火惊魂 2
+harley	哈利摩托
+hayaosi1	早押问答 冠军大赛
+hook	铁钩船长
+47pie2	偶像雀士 四七牌 II
+inthunt	海底大战争
+vshoot	J-联盟足球 V-Shoot
+karianx	魔法宝石
+kof2002	拳皇 2002 - 终极挑战	拳皇2002
+lethalth	致命因子
+logicpro	逻辑
+machbrkr	超能运动会 2
+akiss	麻雀 天使之吻
+majtitl2	主题高尔夫 2
+matrim	新豪血寺一族 斗婚 - matrimelee
+mslug4	合金弹头 4
+mrdrillr	钻头先生
+mnight	突变之夜
+mysticri	魔法警备队 铳法器 / Mystic Riders
+ncv1	Namco 名作剧场 Vol.1
+ncv2	Namco 名作剧场 Vol.2
+kuniokun	热血硬派 国夫君
+nbbatman	忍者棒球
+outfxies	终极杀手 / Out Foxies
+p47aces	王牌战机 / P-47 ACES
+pacapp	波卡热舞
+passsht	网球绝招 - 近身攻击 / Passing Shot
+ptblank	枪林弹雨
+pontoon	益智扑克 / Pontoon
+racingb	超强方程式赛车 / Racing Beat
+rotd	龙吼
+raidndx	雷电 DX
+rdft	雷电快打
+kirarast	流星雀士 Kirara☆之星
+bass	世嘉 钓鱼
+sonicbom	音速轰炸机
+starglad	星际格斗
+soulclbr	剑魂
+swa_dsb	星球大战 (音乐)
+swa	星球大战 (音效)
+sjryuko	麻雀 雀狼会 / 雀士 龙子
+suprleag	超级小联盟
+sws95	超级世界棒球 '95-'97
+ssoldier	完美战士
+fromanc2	对战偶像麻雀 最终罗曼史 2
+fromanc4	对战偶像麻雀 最终罗曼史 4
+fromancr	最终罗曼史 RD
+tekkentt	铁拳锦标赛
+wofj	吞食天地 II 赤壁之战
+tenkomor	迷你游戏 / Tenkomori Shooting
+tetrisp	俄罗斯方块 Plus
+tp2m32	俄罗斯方块 Plus 2 (MegaSystem 32 Version)
+gametngk	游戏天国 - 枪神!
+tnzsj	小鸡尼泽的故事
+timecrs2	时空危机 2
+timescan	时空弹珠台
+topskatr	顶尖滑板
+toryumon	登龙门
+tturfu	硬汉 (美版)
+uccops	玉面威龙 / 暴力刑警 (世界版)
+uccopsj	玉面威龙 / 暴力刑警 (日版)
+vsnetscr	网路对战足球
+wwallyj	绘本国大冒险
+wrestwar	摔角大战 / Wrestle War
+zeroteam	零组特攻队
+
+
+// Changed or updated in 0.7.5
+
+aliensy2	异形特攻队 (System 16A)
+ts2	斗神传 2
+bbnny_l2	Bugs Bunny's Birthday Bash (Piball)
+daytona	梦游美国 (日版)	梦游美国 1
+daytonau	梦游美国 (美版)	梦游美国 1_us
+dendeg	电车向前走
+dendeg2	电车向前走 2 - 高速编
+dietgo	乐乐小子
+dirtdvls	越野障碍赛
+dragoona	战斗英雄
+dynwar	吞食天地 / Dynasty Wars (世界版)
+eswat	霹雳双警
+fantzon1	神奇地带 (日版)
+fgtlayer	格斗领域
+gt3d	金牌 3D 高尔夫 (also '97-Classic)
+gt3dv18	金牌 3D 高尔夫 (v1.8)
+mmaulers	究极战队 Dadandarn
+tcobra2	究极虎 II
+lastbrnx	东京番外地
+mwalk	外星战将 - 麦可杰克森月球漫步
+plsmaswd	星际格斗 2
+pzloop2j	Puzzloop 2
+raidndx	雷电 DX
+ridgerac	颠峰赛车
+ridgera2	颠峰赛车 2
+rab_320	Rocky and Bullwinkle (弹珠)
+scud	疾行狂鏒 / Scud Race
+srally2	世嘉 拉力 2
+sidebs	机动赛车 / Side by Side
+sidebs2	机动赛车 2 / Side by Side II
+spidman	蜘蛛侠
+sf	街头霸王
+strider2	出击飞龙 2
+tekken2	铁拳 2 (TES3/VER.B)
+xfilepin	The X-Files (弹珠)
+thnderxa	雷霆战机 (日版)
+timecris	时空危机
+twotigrc	双虎 (Tron Conversion) (音效)
+vr	VR赛车
+vs2v991	VR足球 2 Version '99
+twrldc94	Tecmo 世界杯 '94
+jdreddp	特警判官
+
+// Removed in 0.7.5
+//outrunp	Out Run (Deluxe)
+
+
+
+// New in 0.7.6
+rfjet	雷电斗士 JET
+viprp1	雷电系列 - 毒蛇任务 / Viper Phase 1
+
+// Re-added in 0.7.6
+dynwarj	吞食天地 (日版)
+
+
+
+// Added in 0.7.7
+dimahoo	大魔法
+finalapr	最后冲剌 R
+ghostlop	幽灵球
+jockeygp	赛马大享
+progear	疾风之岚
+vliner	水果机
+
+
+
+// New in 0.7.7u1
+alpinr2b	高山滑雪 2
+alpinesa	高山冲浪
+bmcorerm	唱片骑师 Core MIX
+bmdct	唱片骑师 featuring Dreams Come True
+daytona2pe	梦游美国 2	梦游美国 2
+fvipers2	格斗毒蛇 2
+finfurl2	老虎赛马 2
+gladiatr	黄金城 / Gradiator
+gradius4	宇宙巡航机 IV - 复活
+gticlub	GTI俱乐部
+invasn	太空入侵者
+kncljoe	惩奸锄恶
+mk4	真人快打 4
+nbapbp	NBA 篮球
+skisuprg	世嘉 超级滑雪G
+slrasslt	太阳攻击
+swtmpeg	星球大战 2 (BGM)
+swe1	Starwars Episode I (弹珠)
+tektagt	铁拳锦标赛
+thunderh	雷霆风暴
+ttt_10	Ticket Tac Toe (redemption)
+toki	JuJu传说 / Toki
+
+
+// removed in 0.7.7u1
+//tnzs	纽西兰童话
+
+
+// New in 0.7.7u2
+diggerma	Diggerman (行程版)
+mslug5	合金弹头 5
+pacapp2	波卡热舞 2
+samsho5	侍魂 零
+samsh5sp	侍魂 零 Special
+svcpcb	SVC Chaos - SNK vs Capcom
+kof2003	拳皇 2003	拳皇2003
+
+
+// New in 0.7.7u3
+10yard	十码大战
+abcop	宇宙骑警
+alpha1v	太空浩劫 (Vision Electronics / Kyle Hodgetts)
+anteater	食蚁兽
+apollo13	阿波罗 13 (弹珠)
+archrivl	二对二篮球斗牛
+armorcar	装甲车
+bellring	Bellringer (弹珠)
+calipso	潜水任务
+ccruise	Caribbean Cruise (弹珠)
+crater	太空救难艇 
+ckongs	大金刚 (Scramble Hardware)
+darkplnt	黑暗星球
+diner_l4	Diner (L-4) (弹珠)
+dd_l2	Dr.Dude (弹珠)
+dbreed72	神龙太子
+driveyes	车魂 - 驱动之眼
+eca	非常救护车 - Emergency Call Ambulance
+funkyjet	飞拳小子
+ghlpanic	盗尸者之神
+goldcue	Golden Cue (弹珠)
+hook_408	Hook (弹珠)
+horizon	飞越地平线
+hunchbks	驼背骑士 (Scramble Hardware)
+hsf2	超级街霸 2 - 周年纪念版
+id4	Independence Day - ID4 (弹珠)
+jungler	蜈蚣谜城
+kengo	剑豪
+kikcubic	迷宫岛
+lemans24	利曼24小时
+lca	Lights, Camera, Action (弹珠)
+locklodu	抢匪追缉令
+losttomb	盗募者
+//mars	火星
+matchit	四川省 / Match It
+matchit2	四川省II / Match It II
+mav_402	Maverick the Movie (弹珠)
+mimonkey	世纪猴王 / Mighty Monkey
+minefld	布雷区
+moonwar	月球战争
+newsin7	新辛巴达 7
+newtangl	New Tropical Angel
+nitrobal	地狱英雄弹珠门 / Gunball / Nitro Ball
+pacappsp	波卡热舞
+pigskin	原始橄榄球 / Pigskin 621AD
+pnyaa	宠物方块
+ptblnk2a	奇幻双枪 2
+pool_l7	Pool Sharks(L-7) (弹珠)
+pooyan	小猪射野狼 / Pooyan
+poundfor	重量拳击
+rachero	摩托英雄
+racingj	赛道狂奔
+racingj2	赛道狂奔 22
+rackemup	The Hustler / Rack' em Up
+radcl_l1	Radical (L-1) (弹珠)
+rvrbt_l3	Riverboat Gambler (L-3) (弹珠)
+rocnrope	凤凰猎人 / Rock'n Rope
+rollr_l2	Roller Games (L-2) (弹珠)
+schmeisr	格斗机器人 / Schmeiser Robo
+shtrider	射击机车手
+sscope2	追击手 2
+sotsugyo	卒业证书
+spacejam	Space Jam (弹珠)
+spdcoin	快速硬币 (行程版)
+spelunkr	洞穴探险
+spelunk2	洞穴探险 2
+spikeout	锐击
+spikeofe	锐击 II Final Edition
+swtril43	Star Wars Trilogy - Special Edition (弹珠)
+startrp	Starship Troopers (弹珠)
+stratgyx	大战略 X
+superbon	超级庞德
+scobra	超级眼镜蛇
+tactcian	太空战术家
+theend	射蜘蛛 / The End
+jplstw22	迷失世界 - 侏罗纪公园 (弹珠)
+thrilld	Thrill Drive
+timber	伐木工
+travrusa	横越美国 / Zippy Race
+trisport	保龄球 / Tri-Sports
+twst_405	龙卷风暴 (弹珠)
+vigilant	成龙踢馆 2
+winrun	胜利之路 铃鹿 GP
+winrun91	胜利之路 '91
+youjyudn	妖兽传
+
+
+// Changed in 0.7.7u3
+viprp1j	雷电系列 - 毒蛇任务 / Viper Phase 1
+pzloop2	环绕球 2
+mpang	魔鬼气泡 / Mighty Pang!
+
+
+// Added in 0.7.7u4
+asurabus	Asura Buster
+avspirit	复仇精灵
+atlantisp	Atlantis (弹珠)
+bcats_l5	Bad Cats (L-5) (弹珠)
+bguns_l8	Big Guns (L-8) (弹珠)
+bigstrik	大联盟足球
+bnzai_l3	Banzai Run (L-3) (弹珠)
+btmn_103	蝙蝠侠 (1.03) (弹珠)
+butasan	笑傲猪群
+choko	长江
+cycln_l5	Cyclone (L-5) (弹珠)
+drac_l1	Bram Stoker's Dracula (L-1) (弹珠)
+champwr	冠军摔跤
+chimerab	原生兽
+eatpm_l4	Elvira and the Party Monsters (LA-4) (弹珠)
+esckids	脱线行大运
+esha_pr4	Earth Shaker! (Family Version) (PR-4) (弹珠)
+f14_l1	F-14 Tom Cat (L-1) (弹珠)
+f1gp	一级方程式 GP 大赛
+fire_l3	Fire! (L-3) (弹珠)
+ft_l5	Fish Tails (L-5) (弹珠)
+gemini	昆虫世界
+godzilla	哥斯拉
+grand_l4	Grand Lizard (L-4) (弹珠)
+gs_l4	The Bally Game Show (L-4) (弹珠)
+gw_l5	The Gateway - High Speed II (弹珠)
+hs_l4	High Speed (L-4) (弹珠)
+hvymetal	重装任务
+joust2	鸵鸟骑士 2 - 适者生存
+jyangoku	雀国志 - 覇王之采牌
+lostwrld	迷失世界
+mars	火星
+midnrun	午夜狂鏒
+milln_l3	Millionaire (L-3) (弹珠)
+mlanding	午夜登陆
+mmancp2u	洛克人 - 力量对决 (美版)(CPS2)
+mousn_l4	Mousin' Around! (LA-4) (弹珠)
+omegaf	欧米茄战机
+othunder	霹雳行动
+pb_l5	Pin * Bot (L-5) (弹珠)
+polic_l4	Police Force (LA-4) (弹珠)
+rackem	撞球高手
+rckmanj	洛克人 - 力量对决 (CPS2)
+rdkng_l4	Road Kings (L-4) (弹珠)
+robokid	原子机械人
+rapidrvr	激流探险
+skichamp	世嘉 滑雪锦标赛
+spstn_l5	Space Station (L-5) (弹珠)
+strkforc	射击部队
+superman	超人
+swrds_l2	Swords of Fury (L-2) (弹珠)
+taf_l5	Adams Family (L-5) (弹珠)
+tafg_lx3	Addams Family Special Collectors Edition Gold (LX-3) (弹珠)
+taxi_l4	Taxi (Lola) (L-4) (弹珠)
+tshingen	武田信玄
+tsptr_l3	Transpoter The Rescue (L-3) (弹珠)
+trucksp3	Truck Stop (P-3) (弹珠)
+warriorb	武士之刃 - Rastan Saga Episode III
+wgp	国际机车大奖赛
+wgp2	国际机车大奖赛 2
+whirl_l3	Whirl Wind (L-3) (弹珠)
+zintrckb	生物泡泡
+
+// Will be added in 0.7.7u5
+athena	雅典娜
+beathead	摇滚跳方块 (行程版)
+chopper	航空骑兵物语 / Chopper I
+crshrace	冲撞赛车
+cyberb2p	2072年未来橄榄球
+exedexes	超浮游要塞
+extrmatn	异星毁灭者
+firebarr	火爆战机
+g13knd	刹手13 奇跡の弹道
+ikari	怒
+klaxp1	旋转方块 (prototype 1)
+lbgrande	义大利足球赛 / Libero Grande
+majtitle	主题高尔夫
+mgcldtex	魔幻之日 EX
+motoraid	电单车攻击赛
+overrev	Over Rev
+qgakumon	问答 劝学篇
+quiz18k	Miyasu Nonki no Quiz 18禁
+ptblank2	奇幻双枪 2 (System 12)
+psychosj	超能力战士 (日版)
+riot	雷轧斗
+
+// Renamed until 0.7.8a1
+// battleg  -> bgaregga
+// baraduke -> aliensec
+// theustl  -> rackemup
+// dbreed   -> dbreed72
+// hayaosi1 -> hayaosi2
+// tekkentt -> tektagt
+// pzloop2j -> pzloop2
+// swe1     -> stwr_103
+// esha_pr4 -> esha_la3
+//
+// Removed until 0.7.8a1
+// lockload
+// shisen2
+// macrossp
+// prmrsocr
+// legionna
+// wofj
+// bmcorerm
+// bmdct
+// daytona2pe
+// invasn
+// mk4
+// mpang
+// rackem
+// rckmanj

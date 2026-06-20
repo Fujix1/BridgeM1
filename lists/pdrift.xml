@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<m1list version="1.0">
+	<list name="pdrift" default="148" max="151" description="">
+		<medium type="ost" name="Power Drift &amp; Mega Drive / G.S.M. Sega 2" publisher="Pony Canyon" number="D28B0010" asin="B000UUWX0K" date="1988-12-28" source="yes"/>
+		<medium type="ost" name="Legend of Game Music 2 - Platinum Box" publisher="Scitron Digital Contents" no="SCDC00473-00482" asin="B000B9QH4I" date="2005-12-21"/>
+		<credit name="細江 慎治" reading="ほそえしんじ" handle="めがてん" role="作曲"/>
+
+		<track number="148" name="Poker Face (Car Select)" length="1:20" fadeout="yes"/>
+		<track number="150" name="Side Street (Course A)"/>
+		<track number="151" name="Like the Wind (Course B)"/>
+		<track number="149" name="Silent Language (Course C)"/>
+		<track number="147" name="Adjustment Mind (Course D)"/>
+		<track number="146" name="Artistic Traps (Course E)"/>
+		<track number="144" name="Diversity (Ending)"/>
+		<track number="145" name="Demo"/>
+		<track number="158-200" name="[SE]"/>
+	</list>
+
+	<list name="gokuparo" default="258" fixedvolume="201">
+		<media>
+			<medium type="ost" name="Gokujou Parodius" publisher="King Records" number="KICA-7641" asin="B00005F69H" date="1994-07-05" source="yes"/>
+			<medium type="ost|book|video|other" name="" number=""/>
+		</media>
+		
+		<track number="258" name="Those were the days.. (Opening)">
+			<remark>Prelude of Legend / Gradius III</remark>
+		</track>
+		<track number="300" name="Showtime in Parodius (Title)"/>
+		<track number="513" name="Credit Inserted"/>
+		<track number="259" name="Let's go with me. (Select)"/>
+			<remark>Sleeping Beauty / Peter Ilyich Tchaikovsky</remark>
+		<track number="260" name="Theme of Vic Viper &amp; Lord British">
+			<remark>Beginning of History / Gradius</remark>
+			<remark>Theme of Vic Viper / Parodius Da!</remark>
+		</track>
+		<track number="261" name="Theme of Takosuke &amp; Belial">
+			<remark>Theme of Tako / Parodius Da!</remark>
+		</track>
+		<track number="262" name="Theme of TwinBee &amp; WinBee">
+			<remark>Game Start Music / Twin Bee</remark>
+			<remark>Theme of TwinBee / Parodius Da!</remark>
+		</track>
+		<track number="263" name="Theme of Pentarou &amp; Ohana-chan">
+			<remark>Start / Antarctic Adventure</remark>
+			<remark>Theme of Pentarou / Parodius Da!</remark>
+		</track>
+		<track number="264" name="Theme of Hikaru-chan &amp; Akane-chan">
+			<remark>First Attack / Thunder Cross</remark>
+		</track>
+		<track number="265" name="Theme of Manbou &amp; Samba"/>
+		<track number="266" name="Theme of Michael &amp; Gabrielle"/>
+		<track number="267" name="Theme of Koitsu &amp; Aitsu"/>
+		<track number="268" name="In the Crane Game (Stage 1 BGM)">
+			<remark>In the Mood / Joe Garland</remark>
+		</track>
+		<track number="269" name="Panda the Dancing (Stage 1 Boss)">
+			<remark>Carmen Toreador Song / Georges Bizet</remark>
+		</track>
+		<track number="270" name="Cat Battleship Forever (Stage 2 BGM)">
+			<remark>Stars and Stripes Forever / John Philip Sousa</remark>
+		</track>
+		<track number="293" name="Cat Battleship Forever (Stage 2 BGM) resume"/>
+		<track number="294" name="Cat Battleship Forever (Stage 2 BGM) resume" hidden="yes"/>
+		<track number="271" name="I am Eliza. (Stage 2 Boss)"/>
+		<track number="272" name="Candy Race (Stage 3 BGM)">
+			<remark>Tritsch-Tratsch Polka / Johann Strauss</remark>
+		</track>
+		<track number="273" name="Candy Race (Stage 3 BGM)" hidden="yes"/>
+		<track number="280" name="Candy Race (Stage 3 BGM)" hidden="yes"/>
+		<track number="290" name="Candy Race (Stage 3 BGM)" hidden="yes"/>
+		<track number="274" name="Cooking Mambo (Stage 3 Boss)">
+			<remark>Mambo No. 5 / Damaso Perez Prado</remark>
+		</track>
+		<track number="276" name="Run! Run! and Run! (Stage 4 BGM)">
+			<remark>William Tell Overture / Gioacchino Rossini</remark>
+		</track>
+		<track number="277" name="Lick my Foot! (Stage 4 &amp; Final Boss)">
+			<remark>Gradius / Aircraft Carrier</remark>
+		</track>
+		<track number="283" name="Lick my Foot! (Stage 4 &amp; Final Boss)" hidden="yes"/>
+		<track number="278" name="Space Hit Parade (Stage 5 BGM)">
+			<remark>Yankee Doodle</remark>
+			<remark>YEj Lucka, Lucka / Czech Folk Song</remark>
+			<remark>YMary Had a Little Lamb</remark>
+			<remark>YCircus Song (Chopsticks)</remark>
+			<remark>YLondon Bridge</remark>
+			<remark>YPicnic</remark>
+		</track>
+		<track number="279" name="Capsule Monster &quot;Cappuccino&quot; (Stage 5 Boss)">
+			<remark>Piano Sonata K.331, 3rd: Rondo Alla Turca / Amadeus Mozart</remark>
+		</track>
+		<track number="284" name="Nanimite Haneru? (Stage 6 BGM)">
+			<remark>Juugoya Otsukisan / Nagayo Motoori</remark>
+			<remark>Kagome Kagome / Japanese Children's Song</remark>
+			<remark>Sakura Sakura / Japanese Children's Song</remark>
+			<remark>Oedo Nihonbashi / Japanese Folk Song</remark>
+			<remark>Touryanse / Japanese Children's Song</remark>
+			<remark>Hanayome Ningyou / Haseo Sugiyama</remark>
+		</track>
+		<track number="285" name="Ah, Kaguya Hime (Stage 6 Boss)">
+			<remark> Zuizui Zukkorobashi / Japanese Children's Song</remark>
+		</track>
+		<track number="298" name="&quot;wakkarimasheen&quot; (Stage 6 Boss End)"/>
+		<track number="286" name="The Brother Ship Goes Yet Again (Moai Ship Stage)">
+			<remark>Die Walkure / Richard Wagner</remark>
+			<remark>The Old Stone Age / Gradius II</remark>
+		</track>
+		<track number="287" name="Love ... of Yoshiko and Yoshio (Moai Ship Boss)">
+			<remark>Sarasate / Zigeunerweisen</remark>
+			<remark>Symphony No.25 in G minor, K.183; 1st movement / Wolfgang Amadeus Mozart</remark>
+		</track>
+		<track number="282" name="Paro Paro Dancing! (Stage 7 BGM)">
+			<remark>Symphony No.9 in E minor, &quot;From The New World&quot; / Antonin Dvorak</remark>
+		</track>
+		<track number="281" name="Rika on the Beat (Stage 7 Chichibinta Rika BGM)">
+			<remark>The Final Enemy / Gradius II</remark>
+			<remark>Theme of Chichibinta Rika / Parodius Da!</remark>
+		</track>
+		<track number="301" name="Hello, Past Glory (End Demo)"/>
+		<track number="303" name="Love Farewell (Ending)">
+			<remark>Farewell / Gradius II</remark>
+		</track>
+		<track number="304" name="Memory of Shooting (Special Stage BGM)">
+			<remark>Main BGM Lv 2 / TwinBee</remark>
+			<remark>Power of Anger / Salamander</remark>
+			<remark>Command 770 / A-Jax</remark>
+			<remark>Aqua Illusion / Gradius III</remark>
+			<remark>Skywalker / Thunder Cross</remark>
+			<remark>Burning Heat / Gradius II</remark>
+		</track>
+		<track number="289" name="Theme of Pentarou X (Special Stage Boss)">
+			<remark>Flight of the Bumblebee / Nikolai Rimsky-Korsakov</remark>
+		</track>
+		<track number="295" name="Gokujou Game Over Da!"/>
+		<track number="296" name="Gokujou Continue Da!"/>
+		<track number="292" name="Gokujou Ranking Da!">
+			<remark>The Nutcracker Suite, Op. 71a / Peter Ilyich Tchaikovsky</remark>
+		</track>
+		<track number="297" name="See You Again! (Game Over)">
+			<remark>Game Over / Gradius II</remark>
+		</track>
+		<track number="288" name="Unused 1"/>
+		<track number="306" name="Unused 2"/>
+		<track number="305" name="Unused 3"/>
+		<track number="307" name="Unused 4">
+			<remark>Habanera from Carmen / Georges Bizet</remark>
+		</track>
+		<notes> </notes>
+		<track number="257" name="Stereo Test"/>
+		
+		
+		<listcredit>Original list from Amuse</listcredit>
+	</list>
+
+</m1list>
+

@@ -1,0 +1,164 @@
+$name=sfzch
+$default=013
+$main
+
+#013 Opening Demo <0:26>
+#014 Player Select <0:54>
+#015 VS.
+#001 RYU Stage <1:53>
+#021 RYU Ending <1:05>
+#009 NASH Stage <1:57>
+#029 NASH Ending <1:12>
+#003 CHUN-LI Stage <1:54>
+#023 CHUN-LI Ending
+#006 ADON Stage <2:10>
+#026 ADON Ending <1:00>
+#008 GUY Stage <2:45>
+// "Final Fight" (BGM 1) のアレンジ曲
+#028 GUY Ending <1:01>
+#011 GOUKI Stage <1:54>
+#031 GOUKI Ending <1:24>
+#016 Stage-End
+#017 Continue <0:37>
+#018 Here Comes The New Challenger
+#002 KEN Stage <2:07>
+#022 KEN Ending <1:31>
+#005 SODOM Stage <2:30>
+// "Final Fight" (BGM 2, BGM 3) のアレンジ曲
+#025 SODOM Ending <1:38>
+// "Final Fight" (Continue) のアレンジ曲
+#010 ROSE Stage <1:36>
+#030 ROSE Ending <1:01>
+#007 BIRDIE Stage <1:44>
+#027 BIRDIE Ending <1:05>
+#004 SAGAT Stage <2:59>
+#024 SAGAT Ending <1:14>
+#012 VEGA Stage <2:11>
+#032 VEGA Ending <1:05>
+#040 DAN Stage <3:00>
+#041 DAN Ending <0:44>
+#033 Staff Roll <2:52>
+#019 Game Over
+#020 Ranking Display
+
+----------------------------------------------------------
+ [VOICE]  ※その他不明
+
+#048 [voice] Round
+#049 [voice] 1
+#050 [voice] 2
+#051 [voice] 3
+#052 [voice] 4
+#053 [voice] 5
+#054 [voice] Final
+#055 [voice] Fight
+#056 [voice] K.O.
+
+  RYU
+#305 [voice] 昇龍拳
+#307 [voice] 真空
+#309 [voice] ィヤッ！
+#336 [voice] ウワァァ‥
+
+  KEN
+#311 [voice] 波動拳
+#313 [voice] 竜巻旋風脚
+#315 [voice] 神龍拳
+#317 [voice] やったぜ！
+#351 [voice] ハッ！
+
+  GUY
+#319 [voice] エイヤァ！
+#323 [voice] 悪く思うな‥
+
+  NASH
+#325 [voice] サマーソルト
+#327 [voice] ィイヤッ！
+#329 [voice] Too easy!
+#081 [voice] ノオォォ…
+
+  SAGAT
+#331 [voice] タイガーブロウ
+#333 [voice] ジェノサイド
+#335 [voice] フンッ！
+#342 [voice] ウオォァ‥
+
+  CHUN-LI
+#337 [voice] 気功掌
+#377 [voice] 気功拳
+#339 [voice] 覇山
+#341 [voice] イヤッ！
+#343 [voice] ハァァ‥
+#345 [voice] ごめんね！
+#347 [voice] やったァ！
+#340 [voice] キャーーーァ‥
+#299 [voice] キャーーーァ…
+
+  ROSE
+#353 [voice] それじゃダメ！
+#085 [voice] アアァァ‥
+
+  ADON
+#355 [voice] ジャガーキック
+#357 [voice] ハァッ！
+#083 [voice] ゥオォァァ‥
+#301 [voice] ゥオォァァ…
+
+  SODOM
+#361 [voice] テンチュウサツ
+#363 [voice] ハッ！
+#359 [voice] ヌゥォッ‥
+
+  VEGA
+#365 [voice] サイコクラッシャー
+#367 [voice] フゥッ！
+#369 [voice] ムゥッ！
+#381 [voice] ハッ‥
+
+  GOUKI
+#371 [voice] デヤッ！
+#297 [voice] ヌアアァァ…
+
+  BIRDIE
+#373 [voice] ブルヘッド
+#375 [voice] フンッ！
+#338 [voice] ウオォォ‥
+#303 [voice] ウオォォ…
+
+  DAN
+#379 [voice] 晃龍拳
+
+----------------------------------------------------------
+ [SE]
+
+#057 [SE]
+#058 [SE]
+#059 [SE]
+#060 [SE]
+#061 [SE]
+#062 [SE]
+#063 [SE]
+#064 [SE]
+#066 [SE]
+#067 [SE]
+#068 [SE]
+#097 [SE]
+#257 [SE]
+#259 [SE]
+#261 [SE]
+#263 [SE]
+#265 [SE]
+#267 [SE]
+#269 [SE]
+#271 [SE]
+#273 [SE]
+#275 [SE]
+#277 [SE]
+#279 [SE]
+#281 [SE]
+#283 [SE]
+#285 [SE]
+#287 [SE]
+
+// List Contribution by NK
+$end

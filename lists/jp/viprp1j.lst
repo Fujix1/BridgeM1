@@ -1,0 +1,52 @@
+﻿$name=viprp1j
+$version=2
+$default=$10
+$main
+//
+//Title : VIPER PHASE1
+//Copyright : (c)セイブ開発 1995
+//System : SPI
+//Sound CPU : Z80
+//Sound Chip : YMF271
+//Composer : 佐藤豪
+
+??? アイキャッチ
+$10 Title
+??? credit
+$01 Go Straight Ahead!! -Stage1-
+$02 Outer Space -Stage2-
+$03 Mission Striker -Stage3-
+$04 Forcing Breakthrough -Stage4-
+$0e Insert Demo
+$05 Invisible Enemy -Stage5-
+$06 Counteroffensive -Stage6-
+$07 Unknown Threat -Stage7-
+$08 Destiny -Stage8-
+$09 Fear of Approaching -Boss-
+$0a Stage Clear
+$11 Bad Ending
+$0f Good Ending
+$0d Ranking
+$0b Continue
+??? game over ?
+
+
+*$13 ?
+$16 Unused Music
+
+$15 Rom Forwarding
+$14 stereo check
+
+  ■出典
+  VIPER PHASE1 <NEW VERSION> PCB (SPI System)
+
+  Viper Phase 1
+  INH  INCD-E0104-E0105  2005.10.31
+  
+
+  ■作曲
+  佐藤 豪
+
+// リスト作成：加山。さん
+// 曲名追加: Fuj
+$end

@@ -1,0 +1,5 @@
+～登場	...'s appearance
+乱入	Join in (joining in)
+みんなの夢	Everyone's dreams
+ボス登場デモ	Boss Entry Demo
+ボス消滅デモ	Boss Termination Demo

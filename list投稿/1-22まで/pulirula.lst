@@ -1,0 +1,120 @@
+$name=pulirula
+$default=10
+$main
+
+#010 タイトルデモ
+#009 Radish Land -Story説明-
+#000 SOUNDSTOP
+#008 インサートコイン
+#033 セレクトBGM
+#011 おじいさんの部屋BGM
+#013 BGM1 ザック&メルの街
+#012 地下用BGM -Radio Tone-  (未使用曲)
+#023 ボスBGM -Normal Version-
+#015 BGM2 結晶体の山
+#062 ボスBGM -崖くずれ Version-
+#097 ラウンドクリア
+#110 まぬけなCode
+#016 BGM3 誇大妄想家の街
+#100 ボスBGM -鏡獅子 Version-
+#029 ラウンド間つなぎBGM
+#017 BGM4 砂漠
+#028 特殊魔法 ラップマンBGM
+#027 特殊魔法 ミカタ氏BGM
+#018 BGM5 枯渇した街
+#101 ボスBGM -シャーマン Version-
+#019 BGM6 エッシャーワールド
+#022 BGM7 空・雲上  (未使用曲)
+#111 元気なCode
+#021 BGM8 雪原・記憶の森
+#026 特殊魔法 子守唄BGM  (未使用曲)
+#020 BGM9 混乱の洞窟
+#025 全ラウンドクリア
+#030 エンディング
+#032 ゲームオーバー
+#031 ネームレジスト
+
+■出典
+  PU.LI.RU.LA / TAITO
+  SCITRON PCCB-00091  1992.07.17
+
+//リスト作成：高本さん
+--------------------------------------------
+
+#034 SE
+#035 SE
+#036 SE
+#037 SE
+#038 SE
+#039 SE
+#040 SE
+#042 SE
+#043 SE
+#044 SE
+#046 SE
+#047 SE
+#049 SE
+#050 SE
+#051 SE
+#052 SE
+#053 SE
+#054 SE
+#055 SE
+#056 SE
+#057 SE
+#058 SE
+#059 SE
+#060 SE
+#061 SE
+#063 SE
+#064 SE
+#065 SE
+#066 SE
+#067 SE
+#068 SE
+#069 SE
+#070 VOICE
+#071 VOICE
+#072 VOICE
+#073 VOICE
+#074 VOICE
+#075 VOICE
+#076 VOICE
+#077 VOICE
+#078 VOICE
+#081 VOICE
+#082 VOICE
+#083 VOICE
+#084 SE
+#086 SE
+#088 SE
+#089 SE
+#090 SE
+#094 VOICE
+#099 SE
+#102 SE
+#103 SE
+#104 VOICE
+#105 SE
+#106 SE
+#108 SE
+#109 SE
+#112 SE
+#113 SE
+#114 SE
+#116 SE
+#117 SE
+#118 SE
+#119 SE
+#120 SE
+#121 SE
+#122 SE
+#123 SE
+#124 SE
+#125 SE
+#126 SE
+#127 SE
+#128 SE
+#129 SE
+
+$end
